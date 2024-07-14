@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subsidiarity and proportionality"
+    id="id-66c849a4-2944-4e3f-92c6-54f9fd1210b7"
+    documentation="DESCRIPTION:&#xD;&#xA;The subsidiarity principle requires EU decisions to be taken as closely as possible to the citizen">
+  <properties
+      key="ID"
+      value="ABB407"/>
+  <properties
+      key="dct:type"
+      value="eira:SubsidiaryAndProportionality"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

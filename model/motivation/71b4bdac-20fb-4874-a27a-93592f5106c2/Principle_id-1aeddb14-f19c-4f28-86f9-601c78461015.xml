@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User-centricity"
+    id="id-1aeddb14-f19c-4f28-86f9-601c78461015"
+    documentation="DESCRIPTION:&#xD;&#xA;User-centricity refers to putting users’ needs at the centre when determining which public services should be provided and how they should be delivered. Therefore, as far as possible, user needs and requirements should guide the design and development of public services, in accordance with the following expectations: i A multi-channel service delivery approach; ii A single point of contact should be made available to users; iii Users’ feedback should be systematically collected, assessed and used to design new public services and to further improve existing ones.">
+  <properties
+      key="ID"
+      value="ABB405"/>
+  <properties
+      key="dct:type"
+      value="eira:UserCentricity"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

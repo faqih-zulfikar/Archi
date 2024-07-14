@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has its interoperability aspects defined by"
+    id="id-bbdc52ad"
+    documentation="[Semantic Content] has its interoperability aspects defined by an [Interoperability Specification]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2f08799e.xml#id-2f08799e"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-2cca9e2a-1713-4cf6-baa1-3a65f6d92c07.xml#id-2cca9e2a-1713-4cf6-baa1-3a65f6d92c07"/>
+</archimate:AssociationRelationship>

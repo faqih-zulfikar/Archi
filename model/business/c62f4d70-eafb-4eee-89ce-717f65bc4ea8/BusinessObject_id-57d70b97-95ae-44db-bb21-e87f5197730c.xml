@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution"
+    id="id-57d70b97-95ae-44db-bb21-e87f5197730c"
+    documentation="DESCRIPTION:&#xD;&#xA;A solution consists of one or more Solution Building Blocks to meet a certain stakeholder need. Within the context of the EIRA©, a solution is usually an Interoperable European Solution developed by public administrations that facilitate the delivery of electronic Public Services and cross-border exchange of information between public administrations or Citizens in support to the implementation and advancement of EU, national or local public policies. &#xA;&#xA;Inspired by TOGAF&#xA;https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html#tag_03_69">
+  <properties
+      key="ID"
+      value="ABB339"/>
+  <properties
+      key="dct:type"
+      value="eira:Solution"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

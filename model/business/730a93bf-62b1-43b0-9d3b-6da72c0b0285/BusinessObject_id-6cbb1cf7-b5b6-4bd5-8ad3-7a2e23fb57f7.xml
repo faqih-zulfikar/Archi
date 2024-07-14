@@ -1,0 +1,23 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base Registry Data Policy"
+    id="id-6cbb1cf7-b5b6-4bd5-8ad3-7a2e23fb57f7"
+    documentation="DESCRIPTION:&#xA;A Data Policy applying to a trusted authentic source of information under the control of an appointed public administration or organisation appointed by government.&#xA;&#xA;According to the European Interoperability Framework, base registries are: “reliable sources of basic information on items such as persons, companies, vehicles, licenses, buildings, locations and roads” and “are authentic and authoritative and form, separately or in combination, the cornerstone of public services”.&#xA;&#xA;Source: the New EIF&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF &#xA;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP &#xA;The Base Registry Data Policy ABB is salient for semantic interoperability because base registries include &quot;authorative sources of information&quot;, that need to be properly governed and made available. EIF's includes base registries in the conceptual model for integrated public services, and describes it as &quot;the cornerstone of European public service delivery&quot;. EIF gives several recommendations on how to manage and interact with base registries (recommendation 37, 38, 39 and 40).&#xA;&#xA;EXAMPLES:&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;GOOD PRACTICES ON BUILDING SUCESSFUL INTERCONNECTIONS OF BASE REGISTRIES&#xD;&#xA;In order to provide quick and user-friendly public services to citizens and businesses, public administrations are trying to adopt customer-centric approaches and readjust their ways of working.&#xD;&#xA;One way to achieve efficiency and increase user-friendliness is through the ‘once-only principle’. Instead of asking the citizen for information that they have already provided, public administrations will reuse the information they already have. Much of this information is stored in authoritative databases called base registries. As the authentic sources of data for public administrations, base registries are one of the basic building blocks of public services and are the key to making the once-only principle a reality.&#xD;&#xA;The document contains some good practices to foster access to the data contained in these base registries.&#xD;&#xA;The good practices presented, are grouped according to the layered interoperability model proposed by the European Interoperability&#xD;&#xA;Framework (EIF).&#xD;&#xA;https://ec.europa.eu/isa2/sites/isa/files/publications/access-to-base-registries-good-practices-on-building-successful-interconnections-of-base-registries.pdf">
+  <properties
+      key="ID"
+      value="ABB351"/>
+  <properties
+      key="dct:type"
+      value="eira:BaseRegistryDataPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:policy_type"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:BusinessObject>

@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multilingulism"
+    id="id-995a36b0-96f3-40e8-94f4-784e8d13352b"
+    documentation="DESCRIPTION:&#xD;&#xA;Multilingualism requires striking a balance between the expectations of citizens and businesses to be served in their own language(s) or their preferred language(s) and the ability of Member States’ public administrations to offer services in all official EU languages">
+  <properties
+      key="ID"
+      value="ABB402"/>
+  <properties
+      key="dct:type"
+      value="eira:Multilingualism"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

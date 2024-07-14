@@ -1,0 +1,35 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Interoperability Requirement"
+    id="id-423f86bb-36f3-460a-ba3c-942f1833c880"
+    documentation="A semantical interoperability requirement is an interoperability requirement that must be met to help achieve semantic interoperability.">
+  <properties
+      key="ID"
+      value="ABB349"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticInteroperabilityRequirement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:status"/>
+  <properties
+      key="eira:size"
+      value="[ Big | Medium | Small ]"/>
+  <properties
+      key="eira:implementation"
+      value="[ Mandatory | Recommended ]"/>
+  <properties
+      key="eira:priority"
+      value="[ Mandatory | Critial | Optional ]"/>
+  <properties
+      key="eira:dependencies"/>
+</archimate:Requirement>

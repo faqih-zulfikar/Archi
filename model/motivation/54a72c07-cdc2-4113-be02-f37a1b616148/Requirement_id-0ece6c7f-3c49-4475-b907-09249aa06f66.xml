@@ -1,0 +1,35 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Interoperability Requirement"
+    id="id-0ece6c7f-3c49-4475-b907-09249aa06f66"
+    documentation="A technical interoperability requirement is an interoperability requirement that must be met to help achieve technical interoperability.">
+  <properties
+      key="ID"
+      value="ABB350"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnicalInteroperabilityRequirement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:status"/>
+  <properties
+      key="eira:size"
+      value="[ Big | Medium | Small ]"/>
+  <properties
+      key="eira:implementation"
+      value="[ Mandatory | Recommended ]"/>
+  <properties
+      key="eira:priority"
+      value="[ Mandatory | Critial | Optional ]"/>
+  <properties
+      key="eira:dependencies"/>
+</archimate:Requirement>

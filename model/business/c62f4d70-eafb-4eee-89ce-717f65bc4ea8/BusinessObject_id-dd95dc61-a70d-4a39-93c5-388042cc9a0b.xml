@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Building Block"
+    id="id-dd95dc61-a70d-4a39-93c5-388042cc9a0b"
+    documentation="DESCRIPTION:&#xD;&#xA;An Architecture Building Block (ABB) is a constituent of the architecture model that describes a single aspect of the overall model. An Architecture Building Block describes generic characteristics and functionalities. Architecture Building Blocks are used to describe reference architectures, solution architecture templates or solution architectures of a specific solutions.&#xA;&#xA;Source: TOGAF&#xA;https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html#tag_03_8">
+  <properties
+      key="ID"
+      value="ABB334"/>
+  <properties
+      key="dct:type"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

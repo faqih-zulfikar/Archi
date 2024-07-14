@@ -1,0 +1,28 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Interoperability Agreement"
+    id="id-bd38f75f"
+    documentation="DESCRIPTION:&#xD;&#xA;An organisational interoperability agreement is a resource of private nature formalizing governance rules enabling collaboration between digital public services with enabling seamless functioning  value&#xD;&#xA;The Organisational Interoperability Agreement ABB  is a key interoperability enabler because it supports organisational governance interoperability by enabling collaboration between digital public services.&#xD;&#xA;&#xD;&#xA;Source ISA2, EIFv2&#xD;&#xA;https://ec.europa.eu/isa2/isa2_en&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;The agreement should include purposes and goals, terms and conditions, governance, and the description of the channel(s). The EIRA© differentiates the following Interoperability Agreements:&#xD;&#xA;&#xD;&#xA;•&#x9;Interoperability Service Agreement (between Public Service Consumers and Public Service Providers;&#xD;&#xA;•&#x9;Interoperability Collaboration Agreement (between Organisations); or&#xD;&#xA;•&#x9;Interoperability Provider Agreement (between Public Service Providers).&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP&#xD;&#xA;Concrete and binding documents which set out the precise obligations of two parties cooperating across an ‘interface’ to achieve interoperability. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;ICAO Service Level Agreement Template&#x9;&#xD;&#xA;A Service Level Agreement (SLA) is an example of Interoperability Agreement in which parties agree on the description of the services to be provided by one or several parties to the other one(s). The SLA tackles topics like: service description, optional services, exclusions, limitations, service levels, service credits, escalation procedure, reporting and points of contact.&#xD;&#xA;https://www.icao.int/ESAF/Documents/APIRG/APIRG18/Docs/wp17_appendices_en.pdf">
+  <properties
+      key="ID"
+      value="ABB119"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalInteroperabilityAgreement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+  <properties
+      key="eira:interoperability_type"
+      value="[ Collaboration agreement | Provider agreement | Service agreement ]"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+</archimate:Contract>

@@ -1,0 +1,23 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data Policy"
+    id="id-f37b6172-6d30-473d-acaf-22067794a00b"
+    documentation="DESCRIPTION:&#xA;A Data Policy applying to the authoritative, most accurate data that is available about key business entities, used to establish the context for business transactions and transactional data.&#xA;&#xA;Source: DAMA DM_BOK &#xA;http://www.dama.org &#xA;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP &#xA;The Master Data Policy ABB is salient for semantic interoperability because Master Data is used to establish the context for business transactions and transactional data by providing accurate data usually stored and available for reuse by other parties. Its management should be prioritised as stated in the EIF recommendation n° 31: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised.&quot;&#xA;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xA;&#xA;EMVO: EMVS Master Data Guide&#xD;&#xA;The EMVS (European Medicines Verification System) requires that OBP’s (OnBoarding Partners) upload both product master data and product batch/pack data.&#xD;&#xA;The aim of this guide is to clarify what data is expected to be used for the EMVS master data noting that the long-term goal is to source directly from the IDMP/SPOR system.&#xD;&#xA;&#xD;&#xA;https://emvo-medicines.eu/new/wp-content/uploads/EMVO_0122_EMVS-Master-Data-Guide-1.pdf">
+  <properties
+      key="ID"
+      value="ABB353"/>
+  <properties
+      key="dct:type"
+      value="eira:MasterDataPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:policy_type"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:BusinessObject>

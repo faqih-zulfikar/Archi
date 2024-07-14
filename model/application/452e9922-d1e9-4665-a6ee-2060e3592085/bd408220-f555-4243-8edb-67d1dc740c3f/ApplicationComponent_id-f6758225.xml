@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collaboration Component"
+    id="id-f6758225"
+    documentation="Implements the functionalities of i) transmission of text and/or ii) broadcasting of “audio and video” content.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;Syn. Social Network&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Kune&#xD;&#xA;Kune is a free and open source federated collaborative social network, focused on collaboration rather than just on communication. That is, it provides online real-time collaborative editing (based on Apache Wave), decentralized social networking and web publishing, while focusing on workgroups rather than individuals. It aims to allow the creation of online spaces for collaborative work, where organizations and individuals can build projects online, coordinate common agendas, set up virtual meetings, publish on the web, and join organizations with similar interests. Kune is 100% free software (AGPLv3), built with free tools.&#xD;&#xA;https://github.com/comunes/kune">
+  <properties
+      key="ID"
+      value="ABB72"/>
+  <properties
+      key="dct:type"
+      value="eira:CollaborationComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationComponent>

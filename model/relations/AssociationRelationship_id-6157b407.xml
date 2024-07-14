@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is subject to"
+    id="id-6157b407"
+    documentation="a [Data Policy] influences [Data]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8b72c60c.xml#id-8b72c60c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c682a79a.xml#id-c682a79a"/>
+</archimate:AssociationRelationship>

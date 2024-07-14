@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lifecycle Management Service"
+    id="id-53193713"
+    documentation="Shares the functionalities of emphasising the importance of coordination and control across the various Functions, Processes, and Systems necessary to manage the full Lifecycle of IT Services. The Service Management Lifecycle approach considers the Strategy, Design, Transition, Operation and Continuous Improvement of IT Services.&#xD;&#xA;&#xD;&#xA;Based on ITIL® V3 Glossary v01, 30 May 2007&#xD;&#xA;https://www.axelos.com/corporate/media/files/glossaries/itil_2011_glossary_gb-v1-0.pdf &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Foreman&#xD;&#xA;Foreman is an open source complete lifecycle systems management tool for provisioning, configuring and monitoring of physical and virtual servers.&#xD;&#xA;It permits system administrators to easily automate repetitive tasks, quickly deploy applications, and proactively manage servers, on premise or in the cloud.&#xD;&#xA;•&#x9;Provisioning: Bare metal, Amazon EC2, Google Compute Engine, OpenStack, Libvirt, oVirt, VMware, and many other providers allow to manage a hybrid cloud through Foreman.&#xD;&#xA;•&#x9;Configuration: an external node classifier, hiera-like parameters, and reports monitoring for Puppet, Salt and Chef are included. Completely ready to tweak host groups in the data centre.&#xD;&#xA;•&#x9;Monitor hosts: Foreman reports tells exactly what happened in your nodes, and alerts if necessary. The dashboard shows which hosts are healthy, and which ones are outdated.&#xD;&#xA;https://theforeman.org/">
+  <properties
+      key="ID"
+      value="ABB138"/>
+  <properties
+      key="dct:type"
+      value="eira:LifecycleManagementService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

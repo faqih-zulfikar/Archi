@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Openness"
+    id="id-f2ae5321-8870-4676-a69c-c74676b2dbbf"
+    documentation="DESCRIPTION:&#xD;&#xA;In the context of interoperable public services, the concept of openness mainly relates to data, specifications and software.">
+  <properties
+      key="ID"
+      value="ABB404"/>
+  <properties
+      key="dct:type"
+      value="eira:Openness"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

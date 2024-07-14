@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EULF compliance"
+    id="id-25297d69-f8a0-48ee-842b-517141ce59f0"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;The EULF concept consists of a package of case studies, specifications, guidelines, training materials, recommendations and actions required by public administrations and stakeholder communities to facilitate the implementation, use and expansion of INSPIRE in an e-government context.&quot;">
+  <properties
+      key="ID"
+      value="ABB394"/>
+  <properties
+      key="dct:type"
+      value="eira:EULFCompliance"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging Service"
+    id="id-a9fd73a7"
+    documentation="Shares the functionality of tracing all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time.&#xD;&#xA;Logging = To record details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred.&#xD;&#xA;&#xD;&#xA;Based on ISACA&#xD;&#xA;https://www.isaca.org &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Graylog2 - open source log management platform&#xD;&#xA;Graylog2 is an open source log management platform. Each message is saved in an Elasticsearch database and a web interface allows to manage and analyse the logs.&#xD;&#xA;Graylog2 is divided into two parts: graylog2-server and graylog2-web-interface. The first is a Java application that accepts messages on different protocols: UDP, TCP, GELF, AMQP... Each message is analysed and saved in the Elasticsearch database. A Rest API is also integrated into the tool and is used in particular by the web-interface part. This allows to manage users, streams and dashboards. &#xD;&#xA;Some possible uses: &#xD;&#xA;•&#x9;Centralization of the logs: several types of inputs: syslog, GELF, raw... Rather than having to connect to each of the servers to consult the error logs, they can be configured to send all the messages in Graylog2.&#xD;&#xA;•&#x9;Debug application&#xD;&#xA;•&#x9;Exception handling&#xD;&#xA;•&#x9;Log analysis&#xD;&#xA;For example, it can easily list the clients who are still using the deprecated version of an API. Another search can e.g. allow you to list the largest consumers or the most used parts of an API.&#xD;&#xA;Graylog Enterprise is built on top of the Graylog open source platform and offers additional features: &#xD;&#xA;•&#x9;Archiving: automatically archive the data that are not searched through very often. Store this data on more cost-effective, slower hard disks and make it available for search in Graylog only when needed.&#xD;&#xA;•&#x9;Audit Log: Graylog Enterprise also offers Audit Log capabilities. Audit Log records and stores actions taken by a user or administrator that make changes in the Graylog system.&#xD;&#xA;https://www.graylog.org/">
+  <properties
+      key="ID"
+      value="ABB59"/>
+  <properties
+      key="dct:type"
+      value="eira:LoggingService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

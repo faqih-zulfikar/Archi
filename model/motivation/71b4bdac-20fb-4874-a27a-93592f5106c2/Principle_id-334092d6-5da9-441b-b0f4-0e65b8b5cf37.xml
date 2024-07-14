@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovation"
+    id="id-334092d6-5da9-441b-b0f4-0e65b8b5cf37"
+    documentation="DESCRIPTION:&#xD;&#xA;Innovation entails rethinking organisations and processes, and changing behaviour so that public services are delivered more efficiently to people. Implemented well, eGovernment enables citizens, enterprises and organisations to carry out their business with government more easily, more quickly and at lower cost.">
+  <properties
+      key="ID"
+      value="ABB384"/>
+  <properties
+      key="dct:type"
+      value="eira:Innovation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle view"/>
+</archimate:Principle>

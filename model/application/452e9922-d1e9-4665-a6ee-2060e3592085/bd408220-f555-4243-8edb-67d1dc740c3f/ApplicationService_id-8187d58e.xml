@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration and Monitoring Service"
+    id="id-8187d58e"
+    documentation="Shares the functionalities of i) administration of services and/or systems and ii) monitoring of services and/or systems with the goal of ensuring that these solutions run in an efficient and effective way.&#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action&#xD;&#xA;&#xD;&#xA;Syn. Data Center Infrastructure Management&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Nagios&#xD;&#xA;Nagios is a powerful monitoring system that enables organizations to identify and resolve IT infrastructure problems before they affect critical business processes. It provides the following features:&#xD;&#xA;•&#x9;Comprehensive Monitoring:&#xD;&#xA;o&#x9;Capabilities to monitor applications, services, operating systems, network protocols, system metrics and infrastructure components &#xD;&#xA;o&#x9;Powerful script APIs allow easy monitoring of in-house and custom applications, services, and systems&#xD;&#xA;•&#x9;Problem Remediation&#xD;&#xA;o&#x9;Alert acknowledgments provide communication on known issues and problem response&#xD;&#xA;o&#x9;Event handlers allow automatic restart of failed applications and services&#xD;&#xA;•&#x9;Reporting&#xD;&#xA;o&#x9;Availability reports &#xD;&#xA;o&#x9;Historical reports provide record of alerts, notifications, outages, and alert response&#xD;&#xA;•&#x9;Extendable Architecture&#xD;&#xA;o&#x9;Multiple APIs permit the integration with in-house and third-party applications &#xD;&#xA;o&#x9;Hundreds of community-developed add-ons extend core Nagios functionality&#xD;&#xA;•&#x9;Visibility &amp; Awareness&#xD;&#xA;o&#x9;Centralized view of entire monitored IT infrastructure&#xD;&#xA;o&#x9;Detailed status information available through web interface&#xD;&#xA;o&#x9;Fast detection of infrastructure outages&#xD;&#xA;o&#x9;Alerts can be delivered to technical staff via email or SMS&#xD;&#xA;o&#x9;Escalation capabilities &#xD;&#xA;•&#x9;Proactive Planning&#xD;&#xA;o&#x9;Trending and capacity planning add-ons permit the follow-up of aging infrastructure&#xD;&#xA;o&#x9;Scheduled downtime allows for alert suppression during infrastructure upgrades&#xD;&#xA;•&#x9;Multi-Tenant Capabilities&#xD;&#xA;o&#x9;Multi-user access to web interface allows stake holders to view infrastructure status&#xD;&#xA;o&#x9;User-specific views ensures clients see only their infrastructure components&#xD;&#xA;•&#x9;Stable, Reliable Platform&#xD;&#xA;o&#x9;Over 10 years of active development&#xD;&#xA;o&#x9;Scales to monitor thousands of nodes&#xD;&#xA;o&#x9;Failover capabilities ensure non-stop monitoring of critical IT infrastructure components&#xD;&#xA;•&#x9;Customizable Code&#xD;&#xA;o&#x9;Open Source Software&#xD;&#xA;o&#x9;Full access to source code&#xD;&#xA;o&#x9;Released under the GPL license&#xD;&#xA;•&#x9;Active community&#xD;&#xA;o&#x9;Over 1 million+ users worldwide&#xD;&#xA;o&#x9;Hundreds of add-ons&#xD;&#xA;https://www.nagios.org/">
+  <properties
+      key="ID"
+      value="ABB137"/>
+  <properties
+      key="dct:type"
+      value="eira:AdministrationAndMonitoringService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

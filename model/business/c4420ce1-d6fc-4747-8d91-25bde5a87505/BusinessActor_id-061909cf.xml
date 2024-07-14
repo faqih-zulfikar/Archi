@@ -1,0 +1,19 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business"
+    id="id-061909cf"
+    documentation="DESCRIPTION:&#xD;&#xA;Economic operator with a legal entity entitled to perform a private  activity for a profit.&#xD;&#xA;&#xD;&#xA;Source: IATE (definition of business, entry Environment [CdT])&#xD;&#xA;http://iate.europa.eu/ &#xD;&#xA;&#xD;&#xA;Syn. Company&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP&#xD;&#xA;The Business ABB is salient for organisation interoperability because organisations can play the role of consumers of Public Services (Public Administration or businesses), as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Cosmetic Product Notification Portal - Economic operators&#xD;&#xA;Economic operators involved in intra-community trade are using the Cosmetic Product Notification Portal in order to either notify cosmetic products put on the EU market (distributors) or notify and update the data (manufacturers and importers).&#xD;&#xA;https://webgate.ec.europa.eu/cpnp/faq/?event=faq.show">
+  <properties
+      key="ID"
+      value="ABB169"/>
+  <properties
+      key="dct:type"
+      value="eira:Business"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+</archimate:BusinessActor>

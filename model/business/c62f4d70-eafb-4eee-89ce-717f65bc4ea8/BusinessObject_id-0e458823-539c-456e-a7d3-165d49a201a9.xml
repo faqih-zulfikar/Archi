@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA Solution Building Block"
+    id="id-0e458823-539c-456e-a7d3-165d49a201a9"
+    documentation="DESCRIPTION:&#xD;&#xA;An EIRA Solution Building Block is a concrete component of an intermediate  level of granularity, that it implements one or more EIRA Architecture Building Blocks of an European Public Service, formulated as an agreed normative statement in design terms on a legal, organisational, semantic, or technical attribute of an European Public Service. On the technical view, a Solution Building Block is a specific software component that it might be either procured or developed of a To-Be Interoperable European Solution or that it is integrated in an As-Is Interoperable European Solution">
+  <properties
+      key="ID"
+      value="ABB338"/>
+  <properties
+      key="dct:type"
+      value="eira:EiraSolutionBuildingBlock"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

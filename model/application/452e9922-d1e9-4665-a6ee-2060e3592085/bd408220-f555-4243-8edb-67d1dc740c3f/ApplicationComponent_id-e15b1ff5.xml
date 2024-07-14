@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration Component"
+    id="id-e15b1ff5"
+    documentation="Implements the functionalities of i) administration of services and/or systems and ii) monitoring of services and/or systems and iii) the various functions that manages the full lifecycle of solutions, with the goal of ensuring that these services and/or systems run in an efficient and effective way.&#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;AnywhereTS&#xD;&#xA;AnywhereTS is an open source configuration tool to create and deploy thin-clients, utilizing ordinary office PCs as clients. The organization can re-use already existing office PCs instead of, or in addition to using dedicated thin clients.&#xD;&#xA;https://sourceforge.net/projects/anywherets/">
+  <properties
+      key="ID"
+      value="ABB139"/>
+  <properties
+      key="dct:type"
+      value="eira:AdministrationComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationComponent>

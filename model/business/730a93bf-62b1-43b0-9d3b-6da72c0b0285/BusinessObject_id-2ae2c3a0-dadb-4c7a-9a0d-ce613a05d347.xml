@@ -1,0 +1,23 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Descriptive Metadata Policy"
+    id="id-2ae2c3a0-dadb-4c7a-9a0d-ce613a05d347"
+    documentation="DESCRIPTION:&#xA;A Data Policy aiming at making data discoverable and identifiable. It may mandate elements such as title, abstract, author, and keywords.&#xA;&#xA;Source: &#xA;http://www.niso.org/publications/press/UnderstandingMetadata.pdf  &#xA;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP &#xA;The Descriptive Metadata Policy ABB is salient for semantic interoperability because metadata facilitates opening and sharing data by providing the appropriate format, description of the content, high level of quality in order to achieve interoperability as stated in the EIF recommendation n° 42: &quot;[..] Ensure that open data is accompanied by high quality, machine-readable metadata in non-proprietary formats, including a description of their content, the way data is collected and its level of quality and the licence terms under which it is made available. The use of common vocabularies for expressing metadata is recommended.&quot;&#xA;&#xA;EXAMPLES:&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Dublin Core Metadata Element Set, Version 1.1: Reference Description&#xD;&#xA;The Dublin Core Metadata Element Set is a vocabulary of fifteen properties for use in resource description. The name &quot;Dublin&quot; is due to its origin at a 1995 invitational workshop in Dublin, Ohio; &quot;core&quot; because its elements are broad and generic, usable for describing a wide range of resources.&#xD;&#xA;The fifteen element &quot;Dublin Core&quot; described in this standard is part of a larger set of metadata vocabularies and technical specifications maintained by the Dublin Core Metadata Initiative (DCMI). The full set of vocabularies, DCMI Metadata Terms [DCMI-TERMS], also includes sets of resource classes (including the DCMI Type Vocabulary [DCMI-TYPE]), vocabulary encoding schemes, and syntax encoding schemes. The terms in DCMI vocabularies are intended to be used in combination with terms from other, compatible vocabularies in the context of application profiles and on the basis of the DCMI Abstract Model [DCAM].&#xD;&#xA;http://dublincore.org/documents/dces/">
+  <properties
+      key="ID"
+      value="ABB352"/>
+  <properties
+      key="dct:type"
+      value="eira:DescriptiveMetadataPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:policy_type"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:BusinessObject>

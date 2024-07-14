@@ -1,0 +1,19 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Agreements / International Treaties"
+    id="id-70a9ac6a-669e-4652-9327-eeb49fe9cac2"
+    documentation="DESCRIPTION:&#xD;&#xA;Under international law, a treaty is any legally binding agreement between states (countries). A treaty can be called a Convention, a Protocol, a Pact, an Accord, etc.; it is the content of the agreement, not its name, which makes it a treaty.&#xD;&#xA;&#xD;&#xA;Based on EIF:&#xD;&#xA;https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12016E207&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;Not applicable&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;An example of a treaty that does have provisions for further binding agreements is the UN Charter. By signing and ratifying the Charter, countries agreed to be legally bound by resolutions passed by UN bodies such as the General Assembly and the Security Council. Thus, UN resolutions are legally binding on UN Member States, and no signature or ratification is necessary.">
+  <properties
+      key="ID"
+      value="ABB368"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalAgreements/InternationalTreaties"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:policy_area"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+</archimate:Contract>

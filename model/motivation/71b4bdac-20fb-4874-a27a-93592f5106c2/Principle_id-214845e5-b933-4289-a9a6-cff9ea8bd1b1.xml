@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Social participation"
+    id="id-214845e5-b933-4289-a9a6-cff9ea8bd1b1"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Social participiation refers to Promoting Civic Participation and Transparency&#xD;&#xA;of Government Decision-Making Processes covering policies concerning ICT: &#xD;&#xA;• E-democracy&#xD;&#xA;• E-participation&#xD;&#xA;• Government-to-citizen (G2C) • Citizen-to-government (C2G) • Citizen-to-citizen (C2C)&#xD;&#xA;• Open governance partnership • Grass-root activism and social&#xD;&#xA;networking&#xD;&#xA;• Political campaigns • Online media&#xD;&#xA;• I-voting&#xD;&#xA;• Mechanisms: e-petitions, online consultation&#xD;&#xA;and crowd-sourcing platforms etc.&quot;">
+  <properties
+      key="ID"
+      value="ABB413"/>
+  <properties
+      key="dct:type"
+      value="eira:SocialParticipation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

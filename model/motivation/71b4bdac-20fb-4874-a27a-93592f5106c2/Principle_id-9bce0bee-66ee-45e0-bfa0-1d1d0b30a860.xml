@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-9bce0bee-66ee-45e0-bfa0-1d1d0b30a860"
+    documentation="DESCRIPTION:&#xD;&#xA;Security refers to the support of the application of the eGovernment security policies in ICT. The primary policies are: 1) Privacy by Design, 2) Encourage the development and use of highly secure systems (long-term), 3) Create stronger institutional supervision and oversight of security, 4) Substantiate the data minimization principle by using anonymization techniques in all European eGovernment systems, 5) Stimulate technical and legal solutions that avoid or limit privacy risks caused by re-identification of previously anonymized data, 6) Make Privacy Impact Assessments of eGovernment systems mandatory and public, 7) Use gateways to achieve interoperability of different national eGovernment security tools, but aim at Europe-wide availability and usability of tools, 7) Ensure open and transparent evaluations of the trade-offs between privacy, security, usability, interoperability and costs of an eGovernment system, 8) Develop a policy strategy for improving the security of IT-systems used in Europe">
+  <properties
+      key="ID"
+      value="ABB385"/>
+  <properties
+      key="dct:type"
+      value="eira:Security"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle view"/>
+</archimate:Principle>

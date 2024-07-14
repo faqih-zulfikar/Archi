@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="documents"
+    id="id-180ec4a4"
+    documentation="A [Public Service Catalogue] documents a [Public Service]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-88463b4f.xml#id-88463b4f"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-3be0540e-d161-4c63-b5c3-5cc8ca310d47.xml#id-3be0540e-d161-4c63-b5c3-5cc8ca310d47"/>
+</archimate:AssociationRelationship>

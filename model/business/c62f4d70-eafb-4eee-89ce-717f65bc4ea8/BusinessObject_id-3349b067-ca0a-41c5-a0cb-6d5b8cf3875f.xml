@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Dimension"
+    id="id-3349b067-ca0a-41c5-a0cb-6d5b8cf3875f"
+    documentation="DESCRIPTION:&#xD;&#xA;“Interoperability in a digital public service is an attribution defined as “the extent it enables peer-to-peer collaboration with [public] services towards mutually beneficial goals, involving the exchange of data, information and knowledge between them regardless their legal, organisational, semantical and technical environment”. &#xD;&#xA;Interoperability is of multidimensional nature involving structural interoperability, behavioural interoperability and governance interoperability:&#xD;&#xA;- The structural interoperability is “the extent its structure has been developed reusing and/or sharing components in support of a peer-to-peer collaboration”&#xD;&#xA;- The behavioural interoperability is “the extent its manifested behaviour exchanges data, information or knowledge with its environment in support of a peer-to-peer collaboration”&#xD;&#xA;- The governance interoperability is “the extent its agreed choreography rules support a peer-to-peer collaboration”">
+  <properties
+      key="ID"
+      value="ABB363"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityDimension"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accountability"
+    id="id-cf5616f8-8f51-4b39-9095-afd554c81207"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Digital public services will enable accountability of users and of public administrations. &#xD;&#xA;Transparency, liability, controllability, responsibility, and responsiveness are defined as distinct dimensions of accountability, providing an improvement on the current state of conceptual fuzziness. The typology provides a vocabulary for the core argument, that conflicting expectations borne of disparate conceptions of accountability undermine organizational effectiveness.&quot;">
+  <properties
+      key="ID"
+      value="ABB414"/>
+  <properties
+      key="dct:type"
+      value="eira:Accountaility"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Messaging Service"
+    id="id-e49a869b"
+    documentation="Shares the functionalities of i) transmission of text and/or ii) broadcasting of “audio and video” content.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;Syn. Social Network&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;HumHub User Mail System&#xD;&#xA;HumHub is a free and open source social network software coded on top of the Yii PHP framework that provides an easy to use toolkit for creating and launching an own social network. The platform can be used for internal communication and collaboration that can range from a few users up to huge Intranets that serve companies with hundreds and thousands of employees. The platform was meant to be self-hosted and currently comes with pretty normal requirements, working with most shared hosting environments around. HumHub also supports themes and modules to extend the functionality for almost all requirements.&#xD;&#xA;The user mail system module provides a private messaging system to communicate with one or more users.&#xD;&#xA;https://github.com/humhub/humhub-modules-mail">
+  <properties
+      key="ID"
+      value="ABB53"/>
+  <properties
+      key="dct:type"
+      value="eira:MessagingService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Neutrality"
+    id="id-c790c027-a5b8-4694-b340-3d12b432f35b"
+    documentation="DESCRIPTION:&#xD;&#xA;Technology Neutrality refers to the independency of specific technology choices, that therefore can operate on a variety of technology platforms">
+  <properties
+      key="ID"
+      value="ABB395"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnologyNeutrality"/>
+</archimate:Principle>

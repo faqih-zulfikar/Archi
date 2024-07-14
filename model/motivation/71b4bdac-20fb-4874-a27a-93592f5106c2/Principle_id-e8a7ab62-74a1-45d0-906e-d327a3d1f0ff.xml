@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Orientation"
+    id="id-e8a7ab62-74a1-45d0-906e-d327a3d1f0ff"
+    documentation="DESCRIPTION:&#xD;&#xA;Service orientation is a way of thinking in terms of services and service-based development and the outcomes of services.">
+  <properties
+      key="ID"
+      value="ABB386"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceOrientation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

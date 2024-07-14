@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is influenced by"
+    id="id-04ca75e5"
+    documentation="An [Interoperability Strategy] is influenced by [Interoperability Governance]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d15e691b.xml#id-d15e691b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-511e94d7.xml#id-511e94d7"/>
+</archimate:AssociationRelationship>

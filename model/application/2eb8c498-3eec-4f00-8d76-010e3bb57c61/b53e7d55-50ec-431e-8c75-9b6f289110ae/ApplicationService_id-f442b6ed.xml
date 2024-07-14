@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Reporting Service"
+    id="id-f442b6ed"
+    documentation="Shares the functionality of providing detailed reports using unified views of enterprise data. &#xD;&#xA;This includes, but is not limited to, financial statements, financial information, non-financial information and regulatory filings such as annual and quarterly financial statements. &#xD;&#xA;&#xD;&#xA;Based on XBRL (eXtensible Business Reporting Language) Specification&#xD;&#xA;http://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html  &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;BIRT&#xD;&#xA;BIRT is an open source software project that provides the BIRT technology platform to create data visualizations and reports that can be embedded into rich client and web applications, especially those based on Java and Java EE. BIRT is a top-level software project within the Eclipse Foundation, an independent not-for-profit consortium of software industry vendors and an open source community. BIRT technology platform is one of the most widely adopted data visualization and reporting technologies with over 12 million downloads and over 2.5M developers across 157 countries. BIRT also has a large, active and growing developer community representing all types of organizations. &#xD;&#xA;http://www.eclipse.org/birt/about/">
+  <properties
+      key="ID"
+      value="ABB47"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessReportingService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

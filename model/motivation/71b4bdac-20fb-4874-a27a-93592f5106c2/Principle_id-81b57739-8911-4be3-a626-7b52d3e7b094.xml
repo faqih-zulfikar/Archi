@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Code of ethics compliance"
+    id="id-81b57739-8911-4be3-a626-7b52d3e7b094"
+    documentation="DESCRIPTION:&#xD;&#xA;Code of ethics compliance refers to the expression of important values and standards that are also to be found in the law, but are not encumbered by the limitations and constraints that necessarily attach to legally-binding rules that can be used to impose sanctions.">
+  <properties
+      key="ID"
+      value="ABB392"/>
+  <properties
+      key="dct:type"
+      value="eira:CodeOfEthicsComplaiance"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

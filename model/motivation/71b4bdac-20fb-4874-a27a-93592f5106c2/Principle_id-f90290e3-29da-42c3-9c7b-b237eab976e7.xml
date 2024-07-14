@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market collaboration"
+    id="id-f90290e3-29da-42c3-9c7b-b237eab976e7"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Digital public services will be designed and delivered considering partnership relationships with private sector.&#xD;&#xA;Market Collaboration ensures efficient and effective use of resources, by seeking for reusable standards, that are open and supporting cost-effective interoperability between ICT capabilities and facilitate citizen-oriented business models&quot;">
+  <properties
+      key="ID"
+      value="ABB415"/>
+  <properties
+      key="dct:type"
+      value="eira:MarketCollaboration"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF Interoperability Level"
+    id="id-591e18ad-5985-4940-9249-2ec35f14d543"
+    documentation="DESCRIPTION:&#xD;&#xA;The New European Interoperability Framework (EIF) is a set of guidelines for developing public services. The EIF defines four interoperability levels, which cover legal, organisational, semantic and technical interoperability. Each level deserves special attention when a new European public service is established.&#xA;&#xA;(1) European Commission, ISA Programme. The New European Interoperability Framework (EIF) for European public services. [Online] 2017. https://ec.europa.eu/isa2/eif_en.">
+  <properties
+      key="ID"
+      value="ABB340"/>
+  <properties
+      key="dct:type"
+      value="eira:EifInteroperabilityLevel"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

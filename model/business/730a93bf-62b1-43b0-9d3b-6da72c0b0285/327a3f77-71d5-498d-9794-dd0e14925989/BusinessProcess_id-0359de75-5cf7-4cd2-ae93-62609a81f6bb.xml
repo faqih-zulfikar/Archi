@@ -1,0 +1,22 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data mapping"
+    id="id-0359de75-5cf7-4cd2-ae93-62609a81f6bb"
+    documentation="DESCRIPTION:&#xD;&#xA;Data mapping is an equivalence relationship between two data items with ontological value. Data mapping is used for a wide variety of tasks, including:&#xD;&#xA;- Data mediation between a data source and a destination;&#xD;&#xA;- Data transformation &#xD;&#xA;- Identification of data relationships as part of data lineage analysis;&#xD;&#xA;- Discovery of hidden sensitive data such as the last four digits of a social security number hidden in another user id as part of a data masking or de-identification project;&#xD;&#xA;- Consolidation of multiple databases into a single database and identifying redundant columns of data for consolidation or elimination.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;IoP Dimension: Behavioral  IoP &#xD;&#xA;The Data Mapping ABB is a key interoperability enabler because it supports to achieve legal behavioral interoperability by   enabling the exchange of data, information, and knowledge between digital public services. &#xD;&#xA;&#xD;&#xA;EXAMPLE&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Microsoft Dynamics CRM Mapping Schema:&#xD;&#xA;Microsoft Dynamics CRM contains several data sets which comprise of different objects, such as Leads, Opportunities, and Competitors. Each of these data sets has several fields like Name, Account Owner, City, Country, Job Title, and more. The application has a defined schema along with attributes, enumerations, and mapping rules. Therefore, if a new record is to be added to the schema of a data object, a data map needs to be created from the data source to the Microsoft Dynamics CRM account.">
+  <properties
+      key="ID"
+      value="ABB360"/>
+  <properties
+      key="dct:type"
+      value="eira:DataMapping"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:BusinessProcess>

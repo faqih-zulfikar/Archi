@@ -1,0 +1,25 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Manifestation"
+    id="id-b9f3290a-3787-40f0-9610-4b892572c7a2"
+    documentation="A Public Service Manifestation is a behaviour EIRA© Architecture Building Block, i.e. a unit of activity performed by one or more Public Service Components.">
+  <properties
+      key="ID"
+      value="ABB342"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceManifestation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:BusinessObject>

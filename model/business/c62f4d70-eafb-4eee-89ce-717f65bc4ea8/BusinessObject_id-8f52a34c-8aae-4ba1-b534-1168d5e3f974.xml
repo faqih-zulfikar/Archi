@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Building Block"
+    id="id-8f52a34c-8aae-4ba1-b534-1168d5e3f974"
+    documentation="DESCRIPTION:&#xD;&#xA;A Solution Building Block (SBB) is a candidate solution which conforms to the specification of an Architecture Building Block (ABB).&#xA;&#xA;Source: TOGAF&#xA;https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html#tag_03_70">
+  <properties
+      key="ID"
+      value="ABB335"/>
+  <properties
+      key="dct:type"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

@@ -1,0 +1,23 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Policy"
+    id="id-569d168f-0678-48d8-85fd-15b057f90920"
+    documentation="DESCRIPTION:&#xD;&#xA;A privacy policy is a document that explains how an organization handles any customer, client or employee information gathered in its operations.&#xD;&#xA;&#xD;&#xA;Source: Techtarget&#xD;&#xA;https://whatis.techtarget.com/definition/privacy-policy&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP&#xD;&#xA;The Data Policy ABB is salient for semantic interoperability because it provides a guiding framework to ensure the privacy of data and information according to interoperability principles as stated in the EIF recommendation n° 46 and 47: &quot;Consider the specific security and privacy requirements and identify measures for the provision of each public service according to risk management plans.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Protection of individuals with regard to the processing of personal data&#xD;&#xA;&quot;The policy on protection of individuals with regard to the processing of personal data by the European Union institutions is based on the Regulation (EU) 2018/1725 on the protection of personal data by the EU institutions, bodies, offices and agencies&quot;. https://ec.europa.eu/info/privacy-policy_en">
+  <properties
+      key="ID"
+      value="ABB373"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivacyPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:policy_type"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:BusinessObject>

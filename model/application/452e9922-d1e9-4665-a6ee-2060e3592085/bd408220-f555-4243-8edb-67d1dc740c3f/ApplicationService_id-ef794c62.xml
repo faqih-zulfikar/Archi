@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Management Service"
+    id="id-ef794c62"
+    documentation="Shares the functionality of categorisation of electronic documents in order to i) store, ii) publish and iii) reuse these documents in multiple contexts. For a differentiation  between ERMS and EDMS visit section 10.3 of Moreq: http://ec.europa.eu/archival-policy/moreq/doc/moreq_en  &#xD;&#xA;&#xD;&#xA;The definition of a Record Management Service includes a differentiation towards record management and e-archiving.&#xD;&#xA;&#xD;&#xA;Based on the EC Document and Archival Policy&#xD;&#xA;https://ec.europa.eu/info/about-european-union/principles-and-values/transparency/access-documents/information-and-document-management_en  &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Council of Europe - Documents, Records and Archives&#xD;&#xA;You will find on the Documents, Records and Archives website information about the Council of Europe's documents, records and archives, how they are organised and how to access them, whatever their format (audio-visual, electronic, paper or web archives): &#xD;&#xA;-&#x9;information about the Council of Europe's documents, records and archives, how they are organised and how to access them, whatever their format (audio-visual, electronic, paper or web archives)&#xD;&#xA;-&#x9;information on the rules and procedures governing access&#xD;&#xA;-&#x9;search tools and other professional tools&#xD;&#xA;-&#x9;a timeline with a selection of themes related to the construction of the Council of Europe and the personalities involved (being developed)&#xD;&#xA;-&#x9;an information management guidance page&#xD;&#xA;https://www.coe.int/en/web/documents-records-archives-information/home">
+  <properties
+      key="ID"
+      value="ABB136"/>
+  <properties
+      key="dct:type"
+      value="eira:DocumentManagementService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

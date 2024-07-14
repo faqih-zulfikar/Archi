@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Successful Public Service Implementation Orientation"
+    id="id-b0ebf261-3382-4567-b4d1-a0772facfd28"
+    documentation="DESCRIPTION:&#xD;&#xA;This refers to the implementation of the European interoperability framework, which is guided by the following vision: ‘Public administrations should make implementation decisions selecting a focus among alternative implementation orientations and considering the best fit with the public policy context. Examples of resource based implementation orientations are the integration orientation, the technology orientation, the governance orientation, and the legal orientation.">
+  <properties
+      key="ID"
+      value="ABB412"/>
+  <properties
+      key="dct:type"
+      value="eira:SuccessfulPublicServiceImplementationOrientation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

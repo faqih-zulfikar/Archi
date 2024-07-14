@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transparency"
+    id="id-0e1e38ca-a829-4548-b633-e62147270ae6"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Transparency in the EIF context refers to:&#xD;&#xA;i. Enabling visibility inside the administrative environment of a public administration. This is about allowing other public administrations, citizens and businesses to view and understand administrative rules, processes,11 data, services and decision-making.&#xD;&#xA;ii. Ensuring availability of interfaces with internal information systems. Public administrations operate a large number of what are often heterogeneous and disparate information systems in support of their internal processes. Interoperability depends on ensuring the availability of interfaces to these systems and the data they handle. In turn, interoperability facilitates reuse of systems and data, and enables these to be integrated into larger systems.&#xD;&#xA;iii. Securing the right to the protection of personal data, by respecting the applicable legal framework for the large volumes of personal data of citizens, held and managed by Public administrations.&quot;">
+  <properties
+      key="ID"
+      value="ABB410"/>
+  <properties
+      key="dct:type"
+      value="eira:Transparency"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

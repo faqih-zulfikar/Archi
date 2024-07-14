@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU Legislation Compliance"
+    id="id-f829cc3f-a075-4982-bbff-7aef14ae4e47"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;EU Legislation Compliance is the property of a (national/local) legislation to be coherent or to implement European legislation.&#xD;&#xA;A compliance assessment of EU Directives must be carried out in two stages:&#xD;&#xA;(1) timely and systematic check whether Member States have transposed Union law;&#xD;&#xA;(2) a timely and systematic conformity check of national transposing measures against the relevant Union legislation (correct transposition). &#xD;&#xA;&#xD;&#xA;While Member States are responsible for the timely and accurate transposition of directives as well as the correct application of the entire acquis, the Commission has to monitor the Member States’ efforts and ensure that their legislation complies with Union law.&quot;">
+  <properties
+      key="ID"
+      value="ABB389"/>
+  <properties
+      key="dct:type"
+      value="eira:EULegislationCompliance"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

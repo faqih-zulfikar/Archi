@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legislation Catalogue"
+    id="id-2d6f43d3"
+    documentation="DESCRIPTION:&#xD;&#xA;Indexed inventory of legal documents with comprehensiveness and trustiness value&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015  establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xD;&#xA;&#xD;&#xA;Based on IATE (definition of catalogue, entry Documentation [COM])&#xD;&#xA;http://iate.europa.eu/ &#xD;&#xA;&#xD;&#xA;Syn. Official Journal&#x9;&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Structural IoP&#xD;&#xA;This ABB is a key interoperability enabler because it supports to achieve legal structural interoperability by  enabling sharing/provisioning and reusing/consumption of legislation on digital public services &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EUR-Lex&#x9;&#xD;&#xA;EUR-Lex provides free access, in the 24 official EU languages, to:&#xD;&#xA;&#xD;&#xA;•&#x9;the authentic Official Journal of the European Union&#xD;&#xA;•&#x9;EU law (EU treaties, directives, regulations, decisions, consolidated legislation, etc.)&#xD;&#xA;•&#x9;preparatory acts (legislative proposals, reports, green and white papers, etc.)&#xD;&#xA;•&#x9;EU case-law (judgments, orders, etc.)&#xD;&#xA;•&#x9;international agreements&#xD;&#xA;•&#x9;EFTA documents&#xD;&#xA;•&#x9;summaries of EU legislation, which put legal acts into a policy context, explained in plain language&#xD;&#xA;•&#x9;other public documents.&#xD;&#xA;&#xD;&#xA;It also allows you to follow the procedures leading to the adoption of legal acts. &#xD;&#xA;http://eur-lex.europa.eu/">
+  <properties
+      key="ID"
+      value="ABB165"/>
+  <properties
+      key="dct:type"
+      value="eira:LegislationCatalogue"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:synonym"
+      value="Official Journal"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+</archimate:BusinessObject>

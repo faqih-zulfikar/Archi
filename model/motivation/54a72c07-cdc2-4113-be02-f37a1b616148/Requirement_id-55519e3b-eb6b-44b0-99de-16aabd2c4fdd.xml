@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Aspect"
+    id="id-55519e3b-eb6b-44b0-99de-16aabd2c4fdd"
+    documentation="DESCRIPTION:&#xD;&#xA;An Interoperability Aspect encapsulates a set of interoperability requirements to be provided/supported by an European Public Service">
+  <properties
+      key="ID"
+      value="ABB345"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityAspect"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:Requirement>

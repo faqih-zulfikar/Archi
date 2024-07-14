@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Once Only"
+    id="id-ee7e7574-16dd-4e59-8e13-9ed2d79ec63d"
+    documentation="DESCRIPTION:&#xD;&#xA;The Once Only Principle entails that citizens and businesses provide diverse data only once in contact with public administrations, while public administration bodies take actions to internally share and reuse these data – even across borders – always in respect of data protection regulations and other constraints. ">
+  <properties
+      key="ID"
+      value="ABB391"/>
+  <properties
+      key="dct:type"
+      value="eira:OnceOnly"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Owner"
+    id="id-be4cc2f0-f736-425d-a1c5-38294475cebf"
+    documentation="DESCRIPTION:&#xD;&#xA;Data owners are either individuals or teams who make decisions such as who has the right to access and edit data and how it’s used. Owners may not work with their data every day, but are responsible for overseeing and protecting a data domain.&#xD;&#xA;In the context of the GDPR, data owners are accountable for the quality, integrity, and protection of their data space.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Mainly Behavioural IoP&#xD;&#xA;The Data Owner ABB is salient for organisational interoperability because it is responsible for the management of the data generated or consumed by the public service. The identification of Data Owners, as stated in the GDPR, is important for accountabilty since it clearly identifies a person/team repsonible to control the compliance of data, and for the defintiion of policies and standards for the alignment of public service data to GDPR.&#xD;&#xA;&#xD;&#xA;EXAMPLE:&#xD;&#xA;Uprava Subsidized Ticket for Students:&#xD;&#xA;Slovenian portal eGovernment is the main point for e-services for citizens.&#xD;&#xA;Students can buy subsidized tickets electronically on the eGovernment portal &quot;eUprava&quot;). &#xD;&#xA;Data Owner - Ministry of Interior&#xD;&#xA;The Ministry of Interior is the owner of the personal data from Central Population register.&#xD;&#xA;https://e-uprava.gov.si/podrocja/izobrazevanje-kultura/visoka-in-visja-sola/subvencionirana-vozovnica.html">
+  <properties
+      key="ID"
+      value="ABB361"/>
+  <properties
+      key="dct:type"
+      value="eira:DataOwner"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:unit_in_DG"/>
+</archimate:BusinessRole>

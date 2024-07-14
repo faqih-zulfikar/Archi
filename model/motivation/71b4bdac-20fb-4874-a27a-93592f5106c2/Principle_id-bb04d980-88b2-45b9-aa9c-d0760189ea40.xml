@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convergence control on public policy goals attainment"
+    id="id-bb04d980-88b2-45b9-aa9c-d0760189ea40"
+    documentation="DESCRIPTION:&#xD;&#xA;The design and implementation of sufficient mechanisms in order to attain full visibility on effective realisation of public services, based on public policies, by putting in place processes and procedures that provide accountability to stakeholders">
+  <properties
+      key="ID"
+      value="ABB386"/>
+  <properties
+      key="dct:type"
+      value="eira:ConvergenceControlOnPublicPolicyGoalsAttainment"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle view"/>
+</archimate:Principle>

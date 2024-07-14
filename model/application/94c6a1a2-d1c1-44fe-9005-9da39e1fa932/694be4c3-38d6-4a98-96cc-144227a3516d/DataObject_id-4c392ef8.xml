@@ -1,0 +1,25 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Data"
+    id="id-4c392ef8"
+    documentation="Data that covers the business information related to business transactions and information exchanges.&#xD;&#xA;&#xD;&#xA;Based on DAMA DM_BOK &#xD;&#xA;http://www.dama.org &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;DATA EXCHANGE STANDARDS FOR REGISTRY SYSTEMS UNDER THE KYOTO PROTOCOL - TECHNICAL SPECIFICATIONS&#xD;&#xA;This section of the Technical Specifications addresses the messages and content requirements necessary to support submissions of unit transactions by registries and the validation of those transactions by the ITL. The unit transactions either involve the transfer of ownership of a unit, a change in an attribute of a unit, or the replacement of a tCER or lCER. This section will describe the data exchange flow, the responsibilities of registries, and the responsibilities of the ITL in order to complete a unit transaction.&#xD;&#xA;&#xD;&#xA;The following unit transactions are described:&#xD;&#xA;•&#x9;Issuance;&#xD;&#xA;•&#x9;Conversion;&#xD;&#xA;•&#x9;External Transfers;&#xD;&#xA;•&#x9;Cancellation (Internal Transfer);&#xD;&#xA;•&#x9;Replacement (Internal Transfer);&#xD;&#xA;•&#x9;Retirement (Internal Transfer);&#xD;&#xA;•&#x9;Carry-over; and&#xD;&#xA;•&#x9;Expiry Date Change.&#xD;&#xA;&#xD;&#xA;http://unfccc.int/kyoto_protocol/registry_systems/itl/items/4065.php">
+  <properties
+      key="ID"
+      value="ABB185"/>
+  <properties
+      key="dct:type"
+      value="eira:TransactionalData"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:DataObject>

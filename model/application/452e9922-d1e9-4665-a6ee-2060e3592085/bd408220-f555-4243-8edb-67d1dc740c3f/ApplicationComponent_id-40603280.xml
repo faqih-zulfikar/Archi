@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging Component"
+    id="id-40603280"
+    documentation="Implements the functionality of tracing all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time.&#xD;&#xA;Logging = To record details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred.&#xD;&#xA;&#xD;&#xA;Based on ISACA&#xD;&#xA;https://www.isaca.org &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Log4j 2&#xD;&#xA;Apache Log4j is a Java-based logging utility, part of the Apache Logging Services project of the Apache Software Foundation. &#xD;&#xA;Log4j 1.x has been widely adopted and used in many applications. However, through the years development on it has slowed down. It has become more difficult to maintain due to its need to be compliant with very old versions of Java and became End of Life in August 2015. &#xD;&#xA;Improvements in Log4j 2:&#xD;&#xA;•&#x9;Log4j 2 is designed to be usable as an audit logging framework. &#xD;&#xA;•&#x9;Log4j 2 contains next-generation Asynchronous Loggers based on the LMAX Disruptor library. In multi-threaded scenarios Asynchronous Loggers have 10 times higher throughput and orders of magnitude lower latency than Log4j 1.x and Logback.&#xD;&#xA;•&#x9;Log4j 2 is garbage free for stand-alone applications, and low garbage for web applications during steady state logging. This reduces pressure on the garbage collector and can give better response time performance.&#xD;&#xA;•&#x9;Log4j 2 uses a Plugin system that makes it extremely easy to extend the framework by adding new Appenders, Filters, Layouts, Lookups, and Pattern Converters without requiring any changes to Log4j.&#xD;&#xA;•&#x9;Support for custom log levels. Custom log levels can be defined in code or in configuration.&#xD;&#xA;•&#x9;Support for Message objects. Messages allow support for interesting and complex constructs to be passed through the logging system and be efficiently manipulated. &#xD;&#xA;•&#x9;Log4j 2 takes advantage of Java 5 concurrency support and performs locking at the lowest level possible. &#xD;&#xA;•&#x9;It is an Apache Software Foundation project following the community and support model used by all ASF projects. &#xD;&#xA;http://logging.apache.org/log4j/2.x/index.html">
+  <properties
+      key="ID"
+      value="AB224"/>
+  <properties
+      key="dct:type"
+      value="eira:LoggingComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationComponent>

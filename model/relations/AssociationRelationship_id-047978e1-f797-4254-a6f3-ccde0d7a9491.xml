@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adds granularity"
+    id="id-047978e1-f797-4254-a6f3-ccde0d7a9491"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-76a89964-7dbe-4450-abcc-b5aaa15a0c61.xml#id-76a89964-7dbe-4450-abcc-b5aaa15a0c61"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-0fcbd31e.xml#id-0fcbd31e"/>
+</archimate:AssociationRelationship>

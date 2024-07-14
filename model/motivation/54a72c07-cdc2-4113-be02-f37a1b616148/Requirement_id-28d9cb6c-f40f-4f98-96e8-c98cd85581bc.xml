@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Requirement"
+    id="id-28d9cb6c-f40f-4f98-96e8-c98cd85581bc"
+    documentation="DESCRIPTION:&#xD;&#xA;A Architectrure Requirement is requirement of the highest possible level of granularity for an Architectural Building Block, formulated as an agreed normative statement of a To-Be European Public Service">
+  <properties
+      key="ID"
+      value="ABB382"/>
+  <properties
+      key="dct:type"
+      value="eira:ArchitectureRequirement"/>
+</archimate:Requirement>

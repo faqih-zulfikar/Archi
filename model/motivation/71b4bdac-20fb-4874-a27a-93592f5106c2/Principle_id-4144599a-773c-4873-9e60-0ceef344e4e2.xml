@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrative Simplification"
+    id="id-4144599a-773c-4873-9e60-0ceef344e4e2"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Administrative Simplification refers to streamlined delivery services. e.g.:&#xD;&#xA;- Harmonised rules on eligibility and durability&#xD;&#xA;- Greater use of simplified costs&#xD;&#xA;- Linking payments with results&#xD;&#xA;- e-Cohesion&#xD;&#xA;- Proportional approach to control&#xD;&#xA;- Simplification of solutions&quot;">
+  <properties
+      key="ID"
+      value="ABB388"/>
+  <properties
+      key="dct:type"
+      value="eira:AdministrativeSimplification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

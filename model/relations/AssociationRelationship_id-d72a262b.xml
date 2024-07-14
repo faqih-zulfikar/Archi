@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="defines the interoperability aspects for"
+    id="id-d72a262b"
+    documentation="A [Legal Interoperability Specification] defines the interoperability aspects for a [Legislation Catalogue] (contents and the catalogue as a whole).">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-58bf5bad-9002-4050-a472-4c0e64a149fb.xml#id-58bf5bad-9002-4050-a472-4c0e64a149fb"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e3332dd3.xml#id-e3332dd3"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,24 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Mapping Catalogue"
+    id="id-3e46d82a-aa81-45c9-9f08-f6e5370841a0"
+    documentation="DESCRIPTION:&#xD;&#xA;Indexed inventory of data mappings with comprehensiveness and trustiness value.&#xD;&#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING Data.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;EXAMPLE:&#xD;&#xA;CEMS Rapid Mapping - JRC&#xD;&#xA;The Joint Research Centre (JRC) is the European Commission's science and knowledge service which employs scientists to carry out research in order to provide independent scientific advice and support to EU policy.&#xD;&#xA;Rapid Mapping is one of the two on-demand mapping services under the Copernicus Emergency Management Service (CEMS). Rapid Mapping delivers geospatial information (in different vector and raster formats) in the midst of or immediately after catastrophic events or humanitarian crises. It is available 24/7/365. Supported disaster types range from natural hazards such as floods, fires, storms, tsunamis, volcanic eruptions, landslides, and earthquakes to industrial accidents and humanitarian crises. &#xD;&#xA;&#xD;&#xA;https://data.jrc.ec.europa.eu/collection/id-0072">
+  <properties
+      key="ID"
+      value="ABB376"/>
+  <properties
+      key="dct:type"
+      value="eira:DataMappingCatalogue"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Use planned | No ]"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:DataObject>

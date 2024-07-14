@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust"
+    id="id-64d2748f-84ce-4cf4-8782-8c27c646e896"
+    documentation="DESCRIPTION:&#xD;&#xA;Trust entails the reliance of citizens on trustworthy and verifiable digital government applications and services, which are in full conformity with high security standards and respond to user needs. Fundamental rights and security should be integrated in all policies with a digital dimension. To foster trust in digital interactions with the public sector, suitable regulatory frameworks must be provided that ensure transparency, predictability, security-by-design and, where necessary, reinforcement or adjustment of existing provisions.">
+  <properties
+      key="ID"
+      value="ABB388"/>
+  <properties
+      key="dct:type"
+      value="eira:Trust"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reusability"
+    id="id-7908e73e-9acf-432c-8138-e5b7456b32a6"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Reusability refers to IT solutions (e.g. software components, Application Programming Interfaces, standards), European frameworks (reference architectures, architectural frameworks and ontologies), information and data.&#xD;&#xA;- Reference Architecture: Architecture is the structure of components, their interrelationships, and the principles and guidelines governing their design and evolution over time. A reference architecture is a generalized architecture of a solution, based on best-practices, domain neutral and, occasionally, with a focus on a particular aspect. The goal of a reference architecture is reusability; it reduces the amount of work, reduces errors and accelerates the development of solutions. A reference architecture should be based in a [reference] model and in a style. &#xD;&#xA;- Architectural framework: a tool for assisting in the production of organization-specific architectures. An architectural framework consists of a technical  reference model, a method for architecture development and a list of component standards, specifications, products and their interrelationships which can be used to build up architectures.&quot;">
+  <properties
+      key="ID"
+      value="ABB406"/>
+  <properties
+      key="dct:type"
+      value="eira:Reusability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

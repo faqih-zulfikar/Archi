@@ -1,0 +1,30 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Service"
+    id="id-2b0ec898-ce98-4c95-94b0-a4d02c019f30"
+    documentation="DESCRIPTION:&#xD;&#xA;A Content Management System (CMS) is responsible for:&#xD;&#xA;- developing Website templates and functionalities&#xD;&#xA;assigning appropriate user permissions and workflows&#xD;&#xA;providing trainings to the web working group&#xD;&#xA;- developing tools and web controls to speed up and facilitate the work of the web working group&#xD;&#xA;-giving support and advice to the web working group&#xD;&#xA;- ensuring continuity of service and performance&#xD;&#xA;- ensuring security and accessibility on the website&#xD;&#xA;- ensuring disaster recovery processes and backup procedures&#xD;&#xA;- setting up the website information architecture within the CMS&#xD;&#xA;- setting up alert procedures and analytics on usage of the platform.&#xD;&#xA;&#xD;&#xA;Source: https://www.eui.eu/ServicesAndAdmin/CommunicationsService/WebUnit/Web-CMS&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Behavioral IoP&#xD;&#xA;The Content Management Service ABB  is salient for technical interoperability because it provides and shares the functionalities of dynamic creation, distribution and analysis of contents (images, videos, etc.) as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;FPFIS-CMS: &#xD;&#xA;&quot;The European Commission announced in the Commission Internet strategy plans to transform the EUROPA web site from a source of one-way information into a tool for communication and interaction (i.e. provide modern interactive web sites for the citizens and stakeholders).&#xD;&#xA;Web sites are a key tool for external communications. They are the institution's business card. Websites are a very cost-effective and efficient means of communication. EUROPA now hosts over 460 websites. EUROPA would benefit from fewer and better sites to respond to user needs. To address the shortcomings, as part of the Commission's IT governance process, the College on 30 November 2011, instructed Commission departments to rationalise the Institution's web presence.&#xD;&#xA;Reduce the cost (human, financial, technical) of the Commission's web presence via exploiting economies of scale and eliminating redundancies by building corporate solutions. The European Commission should offer a corporate service which optimizes and harmonizes the use of different website tools, which speeds up the creation of new external dynamic and social websites (i.e. in days or weeks and not months) and which provides a common solid modern shared infrastructure to support the rapid deployment of these sites&quot;.&#xD;&#xA;&#xD;&#xA;Source: https://webgate.ec.europa.eu/fpfis/mwikis/thinktank/index.php/Content_Management_System_of_the_Flexible_Platform">
+  <properties
+      key="ID"
+      value="ABB380"/>
+  <properties
+      key="dct:type"
+      value="eira:ContentManagementService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability_level"
+      value="[ Excellent (90-100%) | Very good (75-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:reusability_score"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reuse planned | No]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - Infrastructure"/>
+</archimate:ApplicationService>

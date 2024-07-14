@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legislation on Data Information and Knowledge Exchange"
+    id="id-ed0fb737-b3c6-42f7-af48-d09e3154035c"
+    documentation="DESCRIPTION:&#xD;&#xA;Legal act on the exchange of data, information, and knowledge between different agents (private and public) at national and/or cross-border level. &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;IoP Dimension: Behavioural IoP&#xD;&#xA;The Legislation on Data, information, and Knowledge  Exchange ABB is a key interoperability enabler because it supports to achieve legal interoperability by ensuring  legal/juridical certainty and determinacy in the exchange of data, information, and knowledge.&#xD;&#xA;&#xD;&#xA;EXAMPLE:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Regulation on the free flow of non-personal data&#xD;&#xA;The Regulation, applicable as of 28 May 2019, aims at removing obstacles to the free movement of non-personal data across Member States and IT systems in Europe.&#xD;&#xA;The Regulation ensures:&#xD;&#xA;- Free movement of non-personal data across borders: every organisation should be able to store and process data anywhere in the European Union,&#xD;&#xA;- The availability of data for regulatory control: public authorities will retain access to data, also when it is located in another Member State or when it is stored or processed in the cloud,&#xD;&#xA;- Easier switching of cloud service providers for professional users. The Commission has started facilitating self-regulation in this area, encouraging providers to develop codes of conduct regarding the conditions under which users can port data between cloud service providers and back into their own IT environments,&#xD;&#xA;- Full consistency and synergies with the cybersecurity package, and clarification that any security requirements that already apply to businesses storing and processing data will continue to do so when they store or process data across borders in the EU or in the cloud.&#xD;&#xA;https://ec.europa.eu/knowledge4policy/publication/regulation-free-flow-non-personal-data_en">
+  <properties
+      key="ID"
+      value="ABB356"/>
+  <properties
+      key="dct:type"
+      value="eira:LegislationOnDataInformationAndKnowledgeExchange"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+</archimate:BusinessObject>

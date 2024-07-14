@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA Viewpoint"
+    id="id-e4aa0945-0583-4418-9938-e182014b9831"
+    documentation="DESCRIPTION:&#xD;&#xA;The EIRA© provides several viewpoints (1) that conform to EIRA© views. The viewpoints provide a perspective with specific stakeholders concern in mind.&#xA;&#xA;(1) A specification of the conventions for a particular kind of architecture view.&#xA;Source: TOGAF&#xA;https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html#tag_03_18">
+  <properties
+      key="ID"
+      value="ABB333"/>
+  <properties
+      key="dct:type"
+      value="eira:EiraViewpoint"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

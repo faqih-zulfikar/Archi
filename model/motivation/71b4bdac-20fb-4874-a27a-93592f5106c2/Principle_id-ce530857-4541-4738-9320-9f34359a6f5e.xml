@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrated Horizontal User Experience"
+    id="id-ce530857-4541-4738-9320-9f34359a6f5e"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Integrated horizontal user experience refers to a user's experience, when her/his experience using a digital interface is fluent and seamless, also when she/he navigates through different applications/contexts.&quot;">
+  <properties
+      key="ID"
+      value="ABB390"/>
+  <properties
+      key="dct:type"
+      value="eira:IntegratedHorizontalUserExperience"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

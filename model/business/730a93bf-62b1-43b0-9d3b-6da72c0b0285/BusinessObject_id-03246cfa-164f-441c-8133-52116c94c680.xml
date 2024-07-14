@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controlled Vocabulary"
+    id="id-03246cfa-164f-441c-8133-52116c94c680"
+    documentation="DESCRIPTION:&#xD;&#xA;A controlled vocabulary is an organized arrangement of words and phrases used to index content and/or to retrieve content through browsing or searching. It typically includes preferred and variant terms and has a defined scope or describes a specific domain.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;IoP Dimension: Structural IoP, Behavioral IoP, Governance IoP&#xD;&#xA;The Data Model ABB is salient for semantic interoperability because it ensures compatible interpretations of words and phrases used to index content and/or to retrieve content through browsing or searching. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EuroVoc&#xD;&#xA;EuroVoc is a multilingual, multidisciplinary thesaurus covering the activities of the EU, the European Parliament in particular. It contains terms in 23 EU languages (Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish), plus in three languages of countries which are candidates for EU accession: македонски (mk), shqip (sq) and cрпски (sr).&#xD;&#xA;https://op.europa.eu/en/web/eu-vocabularies/th-dataset/-/resource/dataset/eurovoc">
+  <properties
+      key="ID"
+      value="ABB359"/>
+  <properties
+      key="dct:type"
+      value="eira:ControlledVocabulary"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:BusinessObject>

@@ -1,0 +1,26 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Specification"
+    id="id-f9c25183-bba4-4eb6-b64f-4f5b191def5d"
+    documentation="DESCRIPTION:&#xD;&#xA;An Architecture Specification is a document of the highest possible level of granularity on an Solution Building Block, formulated as an agreed normative statement in design of an European Public Service.">
+  <properties
+      key="ID"
+      value="ABB383"/>
+  <properties
+      key="dct:type"
+      value="eira:ArchitectureSpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:domain"/>
+  <properties
+      key="eira:view"/>
+</archimate:BusinessObject>

@@ -1,0 +1,25 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontology"
+    id="id-b663f0bc-902c-4b7e-842e-1fd43744646a"
+    documentation="DESCRIPTION:&#xD;&#xA;An Ontology is a formal description of knowledge as a set of concepts within a domain and the axioms connecting concepts and allowing for logic inferences. When speaking about an ontology, we do not refer only to the terminology (or T-Box) but also to all the “assertions” about the concepts and roles (the A-Box), i.e. all the individuals or instances of concepts and roles of the terminology and as important, the rules for logic inference: the semantics “part”.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP&#xD;&#xA;The Ontologies ABB is salient for semantic interoperability because it defined as a simplified, reusable and extensible data model that capture the fundamental characteristics of a data entity in a context-neutral and syntax-neutral fashion.&#xD;&#xA;&#xD;&#xA;EXAMPLE:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;Medical Dictionary for Regulatory Activities Terminology (MedDRA)&#xD;&#xA;The university ontology includes classes, e.g., :Staff, :Students, :Department or :Course. These classes denote natural concepts that are shared or at least understood by users familiar with universities all over the world.&#xD;&#xA;Universities ontologies can be view in university portals.&#xD;&#xA;http://bioportal.bioontology.org/ontologies/MEDDRA">
+  <properties
+      key="ID"
+      value="ABB364"/>
+  <properties
+      key="dct:type"
+      value="eira:Ontology"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Use planned | No ]"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:DataObject>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has interoperability aspects defined by"
+    id="id-f9123e0b"
+    documentation="An [Interoperability Specification] defines the interoperability aspects for a [Digital Services Infrastructure]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-083ad8d6.xml#id-083ad8d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5973cbab.xml#id-5973cbab"/>
+</archimate:AssociationRelationship>

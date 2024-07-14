@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key Interoperability Enabler"
+    id="id-f093c6fe-f517-45f8-8ee7-ce7c509441d9"
+    documentation="DESCRIPTION:&#xD;&#xA;A Key Interoperability Enabler is an EIRA© Architecture Building Block, which is necessary to enable the efficient and effective delivery of public services across administrations.">
+  <properties
+      key="ID"
+      value="ABB344"/>
+  <properties
+      key="dct:type"
+      value="eira:KeyInteroperabilityEnabler"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

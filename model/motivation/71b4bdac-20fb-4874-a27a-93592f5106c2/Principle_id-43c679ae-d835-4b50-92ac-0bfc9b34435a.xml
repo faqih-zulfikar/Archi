@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convergence assurance on public policy goals attainment"
+    id="id-43c679ae-d835-4b50-92ac-0bfc9b34435a"
+    documentation="DESCRIPTION:&#xD;&#xA;The assessment of effective realisation of public services, based on public policies, by evaluating various technological solutions when striving to ensure the effectiveness and efficiency of a European public service.">
+  <properties
+      key="ID"
+      value="ABB401"/>
+  <properties
+      key="dct:type"
+      value="eira:ConvergenceAssuranceOnPublicPolicyGoalsAttainment"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

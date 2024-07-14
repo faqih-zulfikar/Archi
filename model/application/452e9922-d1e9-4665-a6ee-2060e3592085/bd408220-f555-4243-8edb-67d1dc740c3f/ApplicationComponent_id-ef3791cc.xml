@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Component"
+    id="id-ef3791cc"
+    documentation="Implements the functionality of the categorisation of information resources so that they can be stored, published and reused in multiple contexts.&#xD;&#xA;&#xD;&#xA;Based on DAMA&#xD;&#xA;http://www.dama.org/  &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Plone&#xD;&#xA;Plone provides the following features:&#xD;&#xA;-&#x9;Enterprise integration: Plone connects with specialized applications and standard enterprise systems like CRMs, Salesforce, and Oracle.  It integrates with web servers, SQL and NoSQL databases, continuous integration tools, web services, and frameworks.&#xD;&#xA;-&#x9;Flexible Workflows: Manage the life cycle of your content (from initial creation to publication and storage) with version control, content locking, document and digital asset management, and search.&#xD;&#xA;-&#x9;Industrial Strength Security: The creativity and speed of Open Source blended with a technologically-advanced Python backend yields superior security without sacrificing power or extensibility. The extremely low number of vulnerabilities found in Python and Plone demonstrates the maturity of Plone’s security and development processes&#xD;&#xA;-&#x9;Extensibility: hundreds of add-ons for document and content storage, content delivery, forms processing, social syndication, personalization and more&#xD;&#xA;-&#x9;Scalability: Plone also has outstanding clustering capabilities - allowing websites to be split across multiple servers to handle high traffic&#xD;&#xA;-&#x9;Search Capabilities: Live search gets inside Word documents and PDF files. Supercharge search with add-ons for Google Search Appliance, Elasticsearch and Apache Solr.&#xD;&#xA;-&#x9;Intranets and Multi-site Management&#xD;&#xA;-&#x9;Theming engine and Multilingual&#xD;&#xA;-&#x9;WCAG 2.0 compliant and meets or exceeds W3C’s WAI-AA&#xD;&#xA;https://plone.com/features">
+  <properties
+      key="ID"
+      value="ABB75"/>
+  <properties
+      key="dct:type"
+      value="eira:ContentManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationComponent>

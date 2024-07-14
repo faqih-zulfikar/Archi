@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="signs or agrees upon"
+    id="id-0d701ff6-c303-4edb-82aa-1e648fc2a472">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-6b3cd57a-f05a-4728-988b-a5486c8f8419.xml#id-6b3cd57a-f05a-4728-988b-a5486c8f8419"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-be4cc2f0-f736-425d-a1c5-38294475cebf.xml#id-be4cc2f0-f736-425d-a1c5-38294475cebf"/>
+</archimate:AssociationRelationship>

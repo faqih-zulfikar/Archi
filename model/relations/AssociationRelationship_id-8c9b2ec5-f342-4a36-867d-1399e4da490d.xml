@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="proposes"
+    id="id-8c9b2ec5-f342-4a36-867d-1399e4da490d"
+    documentation="A [Public Service Provider] proposes a [Service Delivery Model]">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-7bd1db6c.xml#id-7bd1db6c"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-a549c619.xml#id-a549c619"/>
+</archimate:AssociationRelationship>

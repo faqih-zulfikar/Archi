@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="negotiate and reach"
+    id="id-a20d53b0-3207-498c-ad87-27854a580cb9">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-7bd1db6c.xml#id-7bd1db6c"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-87f19d49-0d8e-4cba-b19d-78f76d7a19d4.xml#id-87f19d49-0d8e-4cba-b19d-78f76d7a19d4"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is provided by"
+    id="id-dcc7c4d1"
+    documentation="A [Representation] is provided by a [Human Interface]">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c682a79a.xml#id-c682a79a"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-fa5d9d67.xml#id-fa5d9d67"/>
+</archimate:AssociationRelationship>

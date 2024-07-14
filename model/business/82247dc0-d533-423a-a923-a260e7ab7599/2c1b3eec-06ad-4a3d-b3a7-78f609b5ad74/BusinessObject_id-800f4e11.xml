@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration Management"
+    id="id-800f4e11"
+    documentation="The process responsible for maintaining information about configuration Items required to deliver an IT Service, including their relationships. &#xD;&#xA;&#xD;&#xA;Based on ITIL v3&#xD;&#xA;https://www.axelos.com/Corporate/media/Files/Glossaries/AXELOS-Common-Glossary.pdf  &#xD;&#xA;&#xD;&#xA;The following implementation are examples on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Syn. [Distributed] Version Control, Source Code Management&#xD;&#xA;&#xD;&#xA;Quattor&#xD;&#xA;Quattor is a system administration toolkit providing a powerful, portable, and modular set of tools for the automated installation, configuration, and management of clusters, farms, grids and clouds. Quattor is developed as a community effort and provided as open-source software under the Apache 2.0 license and EU DataGrid Software License. Quattor was originally developed in the framework of European Data Grid project. Since its first release in 2003, Quattor has been maintained and extended by a volunteer community of users and developers, primarily from the community of grid system administrators. Three features make it particularly attractive for managing grid resources: Federated Management, Shared Configuration and Management Efficiency, Coherent Site Model.&#x9;&#xD;&#xA;http://www.quattor.org/ &#xD;&#xA;&#xD;&#xA;Salt&#xD;&#xA;Salt (also called SaltStack Platform) is a Python-based open-source configuration management software and remote execution engine supporting the &quot;Infrastructure as code&quot; approach to deployment and cloud management. SaltStack takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds. SaltStack delivers a dynamic infrastructure communication bus used for orchestration, remote execution, configuration management and much more. The Salt Open project was launched in 2011 and is one of the fastest-growing, most-active infrastructure orchestration and configuration management open source project in the world. The SaltStack community is committed to keeping the Salt Open project focused, healthy and open.&#xD;&#xA;https://saltstack.com/community/">
+  <properties
+      key="ID"
+      value="ABB127"/>
+  <properties
+      key="dct:type"
+      value="eira:ConfigurationManagement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:BusinessObject>

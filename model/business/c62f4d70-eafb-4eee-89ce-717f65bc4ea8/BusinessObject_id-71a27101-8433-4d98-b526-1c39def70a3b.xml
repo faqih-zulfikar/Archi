@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA View"
+    id="id-71a27101-8433-4d98-b526-1c39def70a3b"
+    documentation="The EIRA© consists of several architecture views(1), including one view for each of the EIF interoperability levels. The EIRA© views contain a graphical notation of the EIRA© ontology.&#xA;&#xA;(1) An architecture view is a representation of a system from the perspective of a related set of concerns.&#xA;Source: TOGAF&#xA;https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html#tag_03_17">
+  <properties
+      key="ID"
+      value="ABB336"/>
+  <properties
+      key="dct:type"
+      value="eira:EiraView"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

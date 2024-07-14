@@ -1,0 +1,26 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Specification"
+    id="id-309b693e"
+    documentation="DESCRIPTION:&#xD;&#xA;An Interoperability Specification is a document of the highest possible level of granularity on an EIRA SBB, formulated as an agreed normative statement in design terms on a legal, organisational, semantic, or technical attribute of an European Public Service.  It  can refer to existing  standards or  specifications&#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action&#xD;&#xA;&#xD;&#xA;IoP dimensions: Structural IoP, Behavioral IoP, Governance IoP">
+  <properties
+      key="ID"
+      value="ABB162"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:domain"/>
+  <properties
+      key="eira:view"/>
+</archimate:BusinessObject>

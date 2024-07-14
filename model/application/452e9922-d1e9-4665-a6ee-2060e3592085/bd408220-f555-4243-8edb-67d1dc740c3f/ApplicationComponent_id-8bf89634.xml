@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Management Component"
+    id="id-8bf89634"
+    documentation="Implements the functionalities responsible for the efficient and systematic control of the i) creation, ii) receipt, iii) maintenance, iv) use and v) disposal of records, including processes for capturing and maintaining evidence of, and information about, business activities and transactions in the form of records. &#xD;&#xA;ISO 15489-1:2001 defines records as &quot;information created, received, and maintained as evidence and information by an organization or person, in pursuance of legal obligations or in the transaction of business&quot;.&#xD;&#xA;&#xD;&#xA;Based on ISO 15489-1:2016 &#xD;&#xA;https://www.iso.org/standard/62542.html  &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;OpenKM&#xD;&#xA;OpenKM is an Enterprise Document and Record Management System that has support for records management software. The file plan of OpenKM records management software specifies how records are to be organized once they have been created or received, provides a roadmap to the records created and maintained by an organizational unit, and facilitates dispositioning of the records. The file plan is created by detailing the file series of the records in your organizational unit, as well as information about how they are managed and by whom.&#xD;&#xA;Features:&#xD;&#xA;•&#x9;File plan&#xD;&#xA;o&#x9;The file plan of OpenKM document management describes every type of records in the organization, the location where they should be stored, the rules applying to them, the retention schedule and timeline, manner of their disposition, and the person(s) responsible for their management. &#xD;&#xA;•&#x9;Inheritance&#xD;&#xA;o&#x9;OpenKM allows inheritance between file series.&#xD;&#xA;•&#x9;Security&#xD;&#xA;o&#x9;Set security by file series of the record.&#xD;&#xA;•&#x9;Record manager: &#xD;&#xA;o&#x9;Create your own dynamic logic for each file series, for example, based on metadata values, the file series can be promoted as &quot;record&quot; status.&#xD;&#xA;•&#x9;Search: &#xD;&#xA;o&#x9;Define common searches based on file series of record.&#xD;&#xA;•&#x9;Classification of business activities: &#xD;&#xA;o&#x9;Classification system reflect the business of the organization from which they derive and are normally based on an analysis of the organization's business activities. The system can be used to support a variety of records management processes.&#xD;&#xA;•&#x9;Catalogue: &#xD;&#xA;o&#x9;Create dynamic destinations based on record values. &#xD;&#xA;o&#x9;Dynamic wizard requiring the user for metadata values based on file series of the record (control of the creation).&#xD;&#xA;•&#x9;Disposition: &#xD;&#xA;o&#x9;Set retention schedule and period. &#xD;&#xA;o&#x9;Create dynamic disposition based on record values.&#xD;&#xA;https://www.openkm.com/ &#xD;&#xA;&#xD;&#xA;ePHOENIX&#xD;&#xA;epoline® PHOENIX (ePHOENIX) is a document and dossier management system designed to support the processes involved in the handling of Intellectual Property (IP)-related documents.&#xD;&#xA;The system, which was developed by the European Patent Office, allows IP offices to manage application dossiers in electronic form. It provides a means for scanning all incoming documents and a user interface to display the resulting electronic dossier on screen, as well as supporting the printing and distribution of work.&#xD;&#xA;ePHOENIX replaces physical paper files, thus removing the need for space-consuming archives and time-consuming transportation and management. Representing a further step towards the paperless office, the system improves efficiency and cost-effectiveness throughout the life-cycle of IP documents.&#xD;&#xA;ePHOENIX is highly configurable. It provides tools and interfaces which allow existing IT systems, organisational structures, working procedures and conventions to be retained. This means minimal development costs, minimal risk and maximum user acceptance. Furthermore, it is a flexible Java-based system that can operate in a wide variety of IT architectures.&#xD;&#xA;Thanks to its customisation possibilities, ePHOENIX can also be used to handle non-IP documents.&#xD;&#xA;http://ephx.sourceforge.net/summary.html">
+  <properties
+      key="ID"
+      value="ABB76"/>
+  <properties
+      key="dct:type"
+      value="eira:RecordManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationComponent>

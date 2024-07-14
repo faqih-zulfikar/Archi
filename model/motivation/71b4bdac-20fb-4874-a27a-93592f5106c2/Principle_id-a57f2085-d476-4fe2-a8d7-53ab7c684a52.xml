@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Public Management approach"
+    id="id-a57f2085-d476-4fe2-a8d7-53ab7c684a52"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;New Public Management arose out of a concern with government failures, a belief in the efficacy and efficiency  of markets, a belief in economic rationality, and a push away from  large, centralized government agencies toward devolution and privatization.&#xD;&#xA;In New Public Management, public managers are urged to &quot;&quot;steer,  not row.&quot;&quot; They steer by determining objectives, or what should be  done, and by catalyzing service delivery, or how it should be done (rowing), via their choice of a particular &quot;&quot;tool&quot;&quot; or combination of  tools (e.g., markets, regulation, taxes, subsidies, insurance, etc.) for achieving the objectives (Salamon 200)&quot;">
+  <properties
+      key="ID"
+      value="ABB400"/>
+  <properties
+      key="dct:type"
+      value="eira:NewPublicManagementApproach"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

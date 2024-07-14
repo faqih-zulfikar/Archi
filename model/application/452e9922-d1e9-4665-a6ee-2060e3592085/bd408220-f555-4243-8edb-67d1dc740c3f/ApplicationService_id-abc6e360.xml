@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Service"
+    id="id-abc6e360"
+    documentation="Shares the functionality of the categorisation of information resources so that they can be stored, published and reused in multiple contexts.&#xD;&#xA;&#xD;&#xA;Based on DAMA&#xD;&#xA;http://www.dama.org/ &#xD;&#xA;&#xD;&#xA;Syn. CMS&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;CROS Portal&#xD;&#xA;The CROS Portal is a content management system based on Drupal and stands for &quot;Portal on Collaboration in Research and Methodology for Official Statistics&quot;. The CROS Portal is dedicated to the collaboration between researchers and Official Statisticians in Europe and beyond. It provides a working space and tools for dissemination and information exchange for statistical projects and methodological topics. Services provided include hosting of statistical communities, repositories of useful documents, research results, project deliverables, CVs of experts in statistical relevant areas, and discussion fora on different topics like the future research needs in Official Statistics.&#xD;&#xA;https://ec.europa.eu/eurostat/cros/">
+  <properties
+      key="ID"
+      value="ABB51"/>
+  <properties
+      key="dct:type"
+      value="eira:ContentManagementService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

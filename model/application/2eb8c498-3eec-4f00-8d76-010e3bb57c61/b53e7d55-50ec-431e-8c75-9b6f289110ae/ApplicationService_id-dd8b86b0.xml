@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Analytics Service"
+    id="id-dd8b86b0"
+    documentation="Shares the functionalities of i) building analysis models and simulations to create scenarios, ii) understand realities and/or iii) predict future states. Business analytics includes data mining, predictive analytics, applied analytics and statistics, and is delivered as an application suitable for a business user. These analytics solutions often come with prebuilt industry content that is targeted at an industry business process (for example, claims, underwriting or a specific regulatory requirement).&#xD;&#xA;&#xD;&#xA;Based on Gartner&#xD;&#xA;http://www.gartner.com/it-glossary/business-analytics/    &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;KNIME®&#xD;&#xA;KNIME® Analytics Platform is the leading open solution for data-driven innovation, helping discovering the potential hidden in data, mine for fresh insights, or predict new futures. This enterprise-grade, open source platform is scalable. KNIME Analytics Platform provides to data scientists more than 1000 modules, hundreds of ready-to-run examples, a comprehensive range of integrated tools, and a wide choice of advanced algorithms. &#xD;&#xA;&#xD;&#xA;•&#x9;Data Blending: simple text files, databases, documents, images, networks, and even Hadoop-based data can all be combined within the same visual workflow. &#xD;&#xA;•&#x9;Tool Blending: integration of more than a dozen tools, including legacy scripting/code, allows expertise to be reused, graphically documented, and shared among data scientists.&#xD;&#xA;•&#x9;Visual: easy-to-learn graphical interface means that coding is optional and work is visually documented.&#xD;&#xA;&#xD;&#xA;https://www.knime.com/knime-server">
+  <properties
+      key="ID"
+      value="ABB46"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessAnalyticsService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationService>

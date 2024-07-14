@@ -1,0 +1,25 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Mapping"
+    id="id-a3027d60-2450-4646-b6c7-0ef61d204e43"
+    documentation="DESCRIPTION:&#xD;&#xA;Data mapping is an equivalence relationship between two data items with ontological value. Data mapping is used for a wide variety of tasks, including:&#xD;&#xA;- Data mediation between a data source and a destination;&#xD;&#xA;- Data transformation &#xD;&#xA;- Identification of data relationships as part of data lineage analysis;&#xD;&#xA;- Discovery of hidden sensitive data such as the last four digits of a social security number hidden in another user id as part of a data masking or de-identification project;&#xD;&#xA;- Consolidation of multiple databases into a single database and identifying redundant columns of data for consolidation or elimination.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;IoP Dimension: Behavioral  IoP &#xD;&#xA;The Data Mapping ABB is a key interoperability enabler because it supports to achieve legal behavioral interoperability by enabling the exchange of data, information, and knowledge between digital public services. &#xD;&#xA;&#xD;&#xA;EXAMPLE&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Microsoft Dynamics CRM Mapping Schema:&#xD;&#xA;Microsoft Dynamics CRM contains several data sets which comprise of different objects, such as Leads, Opportunities, and Competitors. Each of these data sets has several fields like Name, Account Owner, City, Country, Job Title, and more. The application has a defined schema along with attributes, enumerations, and mapping rules. Therefore, if a new record is to be added to the schema of a data object, a data map needs to be created from the data source to the Microsoft Dynamics CRM account.">
+  <properties
+      key="ID"
+      value="ABB375"/>
+  <properties
+      key="dct:type"
+      value="eira:DataMapping"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Use planned | No ]"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:DataObject>

@@ -1,0 +1,15 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Agreement"
+    id="id-d29305c1-786e-442b-8eed-d9e64b575c86"
+    documentation="DESCRIPTION:&#xD;&#xA;These agreements constitute a framework and a privileged forum to identify common interests, priorities, policy dialogue, and the necessary tools for Strategic &amp; Technological collaboration..&#xD;&#xA;&#xD;&#xA;Based GMP Quality / Technical Agreements: https://ec.europa.eu/research/iscp/index.cfm?pg=countries&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;Not applicable&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;WTO Data Exchange technical agrement:&#xD;&#xA;The agreement regulates the echange of data between systems and applications&#xD;&#xA;https://olc.worldbank.org/sites/default/files/PMT-4.pdf">
+  <properties
+      key="ID"
+      value="ABB377"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnicalAgreement"/>
+</archimate:Contract>

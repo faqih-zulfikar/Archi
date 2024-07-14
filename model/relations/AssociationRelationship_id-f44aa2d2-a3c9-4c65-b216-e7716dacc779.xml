@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="governs"
+    id="id-f44aa2d2-a3c9-4c65-b216-e7716dacc779">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-0c1f4531-ac3f-4748-bda6-eff56d7011ad.xml#id-0c1f4531-ac3f-4748-bda6-eff56d7011ad"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-58bf5bad-9002-4050-a472-4c0e64a149fb.xml#id-58bf5bad-9002-4050-a472-4c0e64a149fb"/>
+</archimate:AssociationRelationship>

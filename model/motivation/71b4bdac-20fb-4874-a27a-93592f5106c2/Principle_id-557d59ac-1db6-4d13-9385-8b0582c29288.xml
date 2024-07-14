@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Inclusion"
+    id="id-557d59ac-1db6-4d13-9385-8b0582c29288"
+    documentation="DESCRIPTION:&#xD;&#xA;Digital Inclusion relates to seamless, transparent, accessible and user-friendly digital government services. Citizens must be able to use such digital services without having legal knowledge. The members of our societies should have the opportunity to help shape the digital transformation and share their ideas and content with others unimpeded, while respecting the rights of third parties. The public sector should encourage such wider participation in policy-making by involving society in the design of public services through co-creation, ex- perimentation and collaboration.">
+  <properties
+      key="ID"
+      value="ABB416"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalInclusion"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

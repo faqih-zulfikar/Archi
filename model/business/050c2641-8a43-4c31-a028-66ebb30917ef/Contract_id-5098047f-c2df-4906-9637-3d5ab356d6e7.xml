@@ -1,0 +1,19 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Interoperability Agreement"
+    id="id-5098047f-c2df-4906-9637-3d5ab356d6e7"
+    documentation="DESCRIPTION:&#xD;&#xA;A legal interoperability agreement is legal resource formalizing governance rules enabling collaboration between digital public services &#xD;&#xA;&#xD;&#xA;Based on EIF:&#xD;&#xA;https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP&#xD;&#xA;The Legal Interoperability Agreement ABB  is a key interoperability enabler because it supports legal interoperability by enabling the seamless exchange of data, information, and knowledge.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;RDA-CODATA&#xD;&#xA;Agreement that provides the guidelines and principles on the legal interoperability of research data.&#xD;&#xA;http://www.codata.org/uploads/Legal%20Interoperability%20Principles%20and%20Implementation%20Guidelines_Final2.pdf">
+  <properties
+      key="ID"
+      value="ABB226"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalInteroperabilityAgreement"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:policy_area"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+</archimate:Contract>

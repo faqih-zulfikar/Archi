@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European digital sovereignty"
+    id="id-dbf1641c-51a4-4476-a08a-da7db5bf1f72"
+    documentation="DESCRIPTION:&#xD;&#xA;European digital sovereignty entails the ensurance that all underlying digital components of ICT solutions (hardware, software, and services) meet European requirements, including the requirements to deploy a secure cloud infrastructure and interoperable services that fully comply with European legal provisions and ethical values.">
+  <properties
+      key="ID"
+      value="ABB417"/>
+  <properties
+      key="dct:type"
+      value="eira:EuropeanDIgitalSovereignty"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

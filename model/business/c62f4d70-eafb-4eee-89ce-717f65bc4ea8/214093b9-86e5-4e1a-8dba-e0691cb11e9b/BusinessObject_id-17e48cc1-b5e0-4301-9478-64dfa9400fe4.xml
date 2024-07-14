@@ -1,0 +1,25 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Component"
+    id="id-17e48cc1-b5e0-4301-9478-64dfa9400fe4"
+    documentation="A Public Service Component is a structural EIRA© Architecture Building Block, i.e. an entity which can perform behaviour (active structure) or on which behaviour is performed (passive structure).">
+  <properties
+      key="ID"
+      value="ABB343"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:BusinessObject>

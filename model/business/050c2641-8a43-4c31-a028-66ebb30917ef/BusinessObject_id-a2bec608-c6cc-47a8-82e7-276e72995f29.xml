@@ -1,0 +1,37 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Act"
+    id="id-a2bec608-c6cc-47a8-82e7-276e72995f29"
+    documentation="DESCRIPTION:&#xD;&#xA;Formalised set of rules on a subject potentially including requirements concerning digital public services. The granularity of the  requirements might be of high level or detail level. Requirements of high-level granularity contain generic/abstract functional requirements like principles and/or recommendations with considerable degrees for transposition/execution and of not binding nature. On the other side, requirements of detail-level granularity imply a limited degree for transposition/execution and they contain specific/concrete functionalities, solution components, data, procedures, and/or technical specifications or standards to be used. EU legal acts are legislative or non-legislative acts adopted by the European institutions (Article 288 TFEU). With the entry into force of the Treaty of Lisbon on 1 December 2009. The names &quot;European Union&quot; or &quot;EU&quot; have replaced &quot;European Community&quot;, &quot;Community&quot; or &quot;EC&quot;.&#xA;&#xA;Source: https://eur-lex.europa.eu/summary/glossary/legislative_acts.html&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP&#xD;&#xA;The Legal Act ABB is salient for interoperability because it helps achieve legal interoperability by ensuring compatible legal/juridical certainty in the exchange of information.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;COMMISSION REGULATION (EU) 2018/1881&#xD;&#xA; of 3 December 2018&#xD;&#xA;amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances.&#xD;&#xA;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1544102387245&amp;uri=CELEX:32018R1881">
+  <properties
+      key="ID"
+      value="ABB164"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalAct"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
+  <properties
+      key="eira:description"/>
+  <properties
+      key="eira:requirement_or_constraint"
+      value="[ Requirement | Constraint ]"/>
+  <properties
+      key="eira:implementation_supported_by_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:legislation_catalogue_uri"/>
+  <properties
+      key="eira:legislation_catalogue_scheme_identifier"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+</archimate:BusinessObject>

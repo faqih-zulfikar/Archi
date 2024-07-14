@@ -1,0 +1,35 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Requirement"
+    id="id-341d316a-aec0-47b6-9c2f-f8d9403fcf74"
+    documentation="DESCRIPTION:&#xD;&#xA;An Interoperability Requirement is requirement of the highest possible level of granularity for an EIRA ABB, formulated as an agreed normative statement in functional terms on a legal, organisational, semantic, or technical attribute of a To-Be European Public Service">
+  <properties
+      key="ID"
+      value="ABB346"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityRequirement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:status"/>
+  <properties
+      key="eira:size"
+      value="[ Big | Medium | Small ]"/>
+  <properties
+      key="eira:implementation"
+      value="[ Mandatory | Recommended ]"/>
+  <properties
+      key="eira:priority"
+      value="[ Mandatory | Critial | Optional ]"/>
+  <properties
+      key="eira:dependencies"/>
+</archimate:Requirement>

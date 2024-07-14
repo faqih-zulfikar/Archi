@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accessibility"
+    id="id-867ba1e0-6bea-4e71-a366-a9057f0a6ee1"
+    documentation="DESCRIPTION:&#xD;&#xA;Accessibility ensures that people with disabilities, the elderly and other disadvantaged groups can use public services at service levels comparable to those provided to other citizens.">
+  <properties
+      key="ID"
+      value="ABB403"/>
+  <properties
+      key="dct:type"
+      value="eira:Accessibility"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

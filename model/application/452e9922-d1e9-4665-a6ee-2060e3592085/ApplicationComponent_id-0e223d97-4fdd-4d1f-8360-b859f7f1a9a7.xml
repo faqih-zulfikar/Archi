@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Warehouse Component"
+    id="id-0e223d97-4fdd-4d1f-8360-b859f7f1a9a7"
+    documentation="DESCRIPTION:&#xD;&#xA;A data warehouse Component is part of the central repository where raw data is transformed and stored in query-able forms. It is an information system that contains historical and commutative data from single or multiple sources. It simplifies reporting and analysis process of the organization.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Structural IoP&#xD;&#xA;The Data Warehouse Component ABB  is salient for technical interoperability because it provides and shares the functionality for the short-term or medium-term preservation of records and information in electronic form in order to ensure their temporal egibility, reliability and integrity and to ease their management as stated in the EIF: &quot;Legislation requires that decisions and data are stored and can be accessed for a specified time. This means that records and information in electronic form held by public administrations for the purpose of documenting procedures and decisions must be preserved and be converted, where necessary, to new media when old media become obsolete. The goal is to ensure that records and other forms of information keep their legibility, reliability and integrity and can be accessed as long as needed subject to security and privacy provisions.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;ESSnet: The overall objective of this ESSnet is to provide assistance in the development of more integrated databases and data production systems for business statistics in Member States. Therefore the ESSnet has to work on issues that are common for the majority of the ESS NSIs when applying a data warehousing approach for statistics.&#xD;&#xA;Its general objectives are:&#xD;&#xA;- Review of current best practices in integrated business data systems&#xD;&#xA;- Identification of problems and solutions in current practices and the opportunities&#xD;&#xA;that a data warehouse might provide&#xD;&#xA;- Examination of ways in which data can be combined to support new outputs&#xD;&#xA;- Provision of recommendations on how the ESS can improve data warehousing&#xD;&#xA;Source: https://ec.europa.eu/eurostat/cros/content/data-warehouse-sga1_en">
+  <properties
+      key="ID"
+      value="ABB379"/>
+  <properties
+      key="dct:type"
+      value="eira:DataWarehouseComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability_level"
+      value="[ Excellent (90-100%) | Very good (75-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:reusability_score"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reuse planned | No]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - Infrastructure"/>
+</archimate:ApplicationComponent>

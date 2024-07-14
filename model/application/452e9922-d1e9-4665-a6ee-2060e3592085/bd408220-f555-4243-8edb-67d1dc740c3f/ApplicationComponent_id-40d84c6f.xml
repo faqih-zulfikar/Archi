@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Management Component"
+    id="id-40d84c6f"
+    documentation="Implements the functionalities of i) managing service consumption (i.e. consumers) and ii) controlling service consumption by partners (i.e. consumers) in order to ensure scalability and availability. It enables the management of IES' interoperability agreements&#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;OpenNebula&#xD;&#xA;The OpenNebula monitoring subsystem gathers information relative to the hosts and the virtual machines, such as the host status, basic performance indicators, as well as VM status and capacity consumption. This information is collected by executing a set of static probes provided by OpenNebula. The information is sent according to the following process: each host periodically sends monitoring data to the front-end which collects it and processes it in a dedicated module. This model is highly scalable and its limit (in terms of number of VMs monitored per second) is bounded to the performance of the server running on and the database server.&#xD;&#xA;OpenNebula also brings resource quota management to allocate, track and limit resource utilization/consumption.&#xD;&#xA;https://opennebula.org/">
+  <properties
+      key="ID"
+      value="ABB141"/>
+  <properties
+      key="dct:type"
+      value="eira:PartnerManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationComponent>

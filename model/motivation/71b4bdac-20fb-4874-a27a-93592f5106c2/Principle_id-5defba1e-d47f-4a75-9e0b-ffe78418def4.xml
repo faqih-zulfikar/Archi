@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data portability"
+    id="id-5defba1e-d47f-4a75-9e0b-ffe78418def4"
+    documentation="DESCRIPTION:&#xD;&#xA;Data portability refers to the ability to move and reuse data easily among different applications and systems, which becomes even more challenging in cross-border scenarios.">
+  <properties
+      key="ID"
+      value="ABB408"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPortability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>

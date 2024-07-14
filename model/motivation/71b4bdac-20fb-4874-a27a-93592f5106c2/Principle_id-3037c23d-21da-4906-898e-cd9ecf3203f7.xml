@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preservation of information"
+    id="id-3037c23d-21da-4906-898e-cd9ecf3203f7"
+    documentation="DESCRIPTION:&#xD;&#xA;Legislation requires that decisions and data are stored and can be accessed for a specified time. This means that records and information in electronic form held by public administrations for the purpose of documenting procedures and decisions must be preserved and be converted, where necessary, to new media when old media become obsolete">
+  <properties
+      key="ID"
+      value="ABB387"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+  <properties
+      key="dct:type"
+      value="eira:PreservationOfInformation"/>
+</archimate:Principle>

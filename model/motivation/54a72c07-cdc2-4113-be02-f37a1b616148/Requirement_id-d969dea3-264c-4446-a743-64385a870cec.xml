@@ -1,0 +1,35 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Interoperability Requirement"
+    id="id-d969dea3-264c-4446-a743-64385a870cec"
+    documentation="A legal interoperability requirement is an interoperability requirement that must be met to help achieve legal interoperability.">
+  <properties
+      key="ID"
+      value="ABB347"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalInteroperabilityRequirement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:status"/>
+  <properties
+      key="eira:size"
+      value="[ Big | Medium | Small ]"/>
+  <properties
+      key="eira:implementation"
+      value="[ Mandatory | Recommended ]"/>
+  <properties
+      key="eira:priority"
+      value="[ Mandatory | Critial | Optional ]"/>
+  <properties
+      key="eira:dependencies"/>
+</archimate:Requirement>

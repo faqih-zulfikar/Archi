@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process Management Component"
+    id="id-8f70db14-6390-4cf8-ba15-ac564aa6e516"
+    documentation="A Business Process Management Component encapsulates the functionalities for the orchestration/choreography of business processes.">
+  <properties
+      key="ID"
+      value="ABB166"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessProcessManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:ApplicationComponent>

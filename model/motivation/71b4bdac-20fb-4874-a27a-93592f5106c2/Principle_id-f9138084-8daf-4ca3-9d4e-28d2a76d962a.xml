@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proactiveness"
+    id="id-f9138084-8daf-4ca3-9d4e-28d2a76d962a"
+    documentation="DESCRIPTION:&#xD;&#xA;&quot;Proactiveness refers to proactive services, which are public services that a public institution delivers following its own initiative considering the presumable will by the person and that is delivered based on the information stored in the data collections belonging to the state information system.&#xD;&#xA;Proactive service is based on life and business events and circumstances&quot;">
+  <properties
+      key="ID"
+      value="ABB397"/>
+  <properties
+      key="dct:type"
+      value="eira:Proactiveness"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principle View"/>
+</archimate:Principle>
