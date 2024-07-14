@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organization"
-    id="id-5de2f1ab108b4a70ae2f6e963b85b326">
+    id="id-5de2f1ab108b4a70ae2f6e963b85b326"
+    viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-75d456e5dec2417f8e518c67c7cce32b"
