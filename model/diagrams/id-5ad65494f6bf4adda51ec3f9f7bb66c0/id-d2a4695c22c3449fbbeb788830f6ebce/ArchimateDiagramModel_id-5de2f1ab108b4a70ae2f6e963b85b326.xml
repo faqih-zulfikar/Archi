@@ -50,7 +50,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4db76e389f324a5b812ce4b2366a0a78">
+      id="id-4db76e389f324a5b812ce4b2366a0a78"
+      targetConnections="id-b991cc0d24d8470ab5549d24e05d4e76">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-57ff2c1506954e419cb9625fcc4b22ad"
@@ -134,6 +135,27 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-c2a782cc00644112949d26264f504bea.xml#id-c2a782cc00644112949d26264f504bea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c4f371451efe4b3596c4ee047d99a3dd">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b991cc0d24d8470ab5549d24e05d4e76"
+        source="id-c4f371451efe4b3596c4ee047d99a3dd"
+        target="id-4db76e389f324a5b812ce4b2366a0a78">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-8043d977384347deb89d1bbeeca3cf50.xml#id-8043d977384347deb89d1bbeeca3cf50"/>
+    </sourceConnections>
+    <bounds
+        x="528"
+        y="273"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-0db51cafb442446a9d4954ba6ab97e3e.xml#id-0db51cafb442446a9d4954ba6ab97e3e"/>
   </children>
   <properties
       key="Created By"
