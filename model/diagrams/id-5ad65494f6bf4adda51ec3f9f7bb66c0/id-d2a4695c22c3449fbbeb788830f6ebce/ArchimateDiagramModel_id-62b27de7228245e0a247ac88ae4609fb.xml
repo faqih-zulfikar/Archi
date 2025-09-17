@@ -37,4 +37,7 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-b819955ac6424d74a7485be2ed9cacab.xml#id-b819955ac6424d74a7485be2ed9cacab"/>
   </children>
+  <properties
+      key="Digitalization Status"
+      value="Low"/>
 </archimate:ArchimateDiagramModel>

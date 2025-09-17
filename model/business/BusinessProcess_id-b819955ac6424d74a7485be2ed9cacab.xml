@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Process 02"
-    id="id-b819955ac6424d74a7485be2ed9cacab"/>
+    id="id-b819955ac6424d74a7485be2ed9cacab">
+  <properties
+      key="Digitalization Status"
+      value="Medium"/>
+</archimate:BusinessProcess>
